@@ -380,7 +380,7 @@ Výjimky z kontroly rezervace: hotovostní výběry, platby kartou, ceny ČNB sa
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 1774/2013](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2015%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2015&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_1774_2013.txt) — 30. 12. 2014, kat. A
+- *NS* [21 Cdo 1774/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/715F708C7763A9E6C1257DE8003AECED?openDocument) — 30. 12. 2014, kat. A
   > „Vykonatelné usnesení soudu, kterým bylo státu (České republice) uloženo vrátit poplatníku soudní poplatek nebo přeplatek na soudním poplatku, je způsobilým titulem pro výkon rozhodnutí nebo exekuci. V řízení o výkon rozhodnutí nebo v exekučním řízení vedeném podle takového titulu vystupuje za stát (Českou republiku) Ministerstvo financí"
 
 ---
