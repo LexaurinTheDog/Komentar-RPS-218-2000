@@ -281,6 +281,11 @@ Tím je zajištěna **úplná stopa každého peněžního toku** od plánu pře
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 101/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB63DF665163ABEDC12588A80017E01F?openDocument) — 14. 6. 2022, kat. A
+  > „Pohledávka z titulu odvodu za porušení rozpočtové kázně vzniká (a stává se splatnou) již dnem porušení rozpočtové kázně, nikoli až vydáním (nebo právní mocí) platebního výměru, jímž příslušný finanční úřad (správce daně) uloží příjemci dotace provést odvod za porušení rozpočtové kázně. Je-li podle rozhodnutí o poskytnutí dotace porušením rozpočtové kázně skutečnost, že ve vymezené době byl prohlášen konkurs na majetek příjemce dotace, pak pohledávka z titulu odvodu za porušení rozpočtové kázně, která vznikla prohlášením konkursu na majetek příjemce dotace, je i tam, kde insolvenční soud spojil rozhodnutí o prohlášení konkursu s rozhodnutím o úpadku dlužníka (§ 148 odst. 1 insolvenčního zákona), pohledávkou vzniklou ve smyslu § 168 odst. 2 písm. e/ insolvenčního zákona „po rozhodnutí o úpadku“ dlužníka. U pohledávky, která je obsažena v taxativním výčtu pohledávek za majetkovou…"
+
 #### Dotace a návratná finanční výpomoc (písm. a, b) — základní typy dotačních titulů
 
 Definice rozlišují dva druhy účelových plnění z veřejných prostředků právnickým nebo fyzickým osobám:
@@ -537,6 +542,11 @@ Z **účelovosti** závazných ukazatelů (§ 21) plyne, že prostředky lze pou
 > *(2) Pro účely tohoto zákona se příspěvky a dotace poskytnuté ze zahraničí (dále jen „prostředky poskytnuté ze zahraničí“) organizačním složkám státu použité v běžném rozpočtovém roce považují za příjmy státního rozpočtu. Za prostředky poskytnuté ze zahraničí se považují i prostředky poskytnuté České republice z rozpočtu Evropské unie a přijaté organizačními složkami státu z Národního fondu.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1774/2013](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2015%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2015&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_1774_2013.txt) — 30. 12. 2014, kat. A
+  > „Vykonatelné usnesení soudu, kterým bylo státu (České republice) uloženo vrátit poplatníku soudní poplatek nebo přeplatek na soudním poplatku, je způsobilým titulem pro výkon rozhodnutí nebo exekuci. V řízení o výkon rozhodnutí nebo v exekučním řízení vedeném podle takového titulu vystupuje za stát (Českou republiku) Ministerstvo financí"
 
 #### Systematika příjmů — kategorizace dle typu
 
@@ -1195,6 +1205,11 @@ To je preventivní mechanismus: programy s velkým fiskálním dopadem musí pro
 > *(11) Fyzická nebo právnická osoba, která zaplatila za pořízení věcí nebo služeb, obstarání výkonů, provedení prací nebo za nabytí práv peněžními prostředky z dotace a uplatnila nárok na odpočet daně z přidané hodnoty, do kterého zahrnula i částku, na jejíž odpočet měla právo z důvodu tohoto pořízení, nesmí tuto částku zahrnout do finančního vypořádání dotace. Jestliže ji do něj zahrnula a nárok na odpočet uplatnila až poté, je povinna do jednoho měsíce od uplatnění nároku odvést částku odpočtu na příjmový účet poskytovatele.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 101/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB63DF665163ABEDC12588A80017E01F?openDocument) — 14. 6. 2022, kat. A
+  > „Pohledávka z titulu odvodu za porušení rozpočtové kázně vzniká (a stává se splatnou) již dnem porušení rozpočtové kázně, nikoli až vydáním (nebo právní mocí) platebního výměru, jímž příslušný finanční úřad (správce daně) uloží příjemci dotace provést odvod za porušení rozpočtové kázně. Je-li podle rozhodnutí o poskytnutí dotace porušením rozpočtové kázně skutečnost, že ve vymezené době byl prohlášen konkurs na majetek příjemce dotace, pak pohledávka z titulu odvodu za porušení rozpočtové kázně, která vznikla prohlášením konkursu na majetek příjemce dotace, je i tam, kde insolvenční soud spojil rozhodnutí o prohlášení konkursu s rozhodnutím o úpadku dlužníka (§ 148 odst. 1 insolvenčního zákona), pohledávkou vzniklou ve smyslu § 168 odst. 2 písm. e/ insolvenčního zákona „po rozhodnutí o úpadku“ dlužníka. U pohledávky, která je obsažena v taxativním výčtu pohledávek za majetkovou…"
 
 #### Nenárokovost (odst. 1) a okruh poskytovatelů (odst. 2)
 

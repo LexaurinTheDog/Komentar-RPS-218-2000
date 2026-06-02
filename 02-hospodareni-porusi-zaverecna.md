@@ -378,6 +378,11 @@ Výjimky z kontroly rezervace: hotovostní výběry, platby kartou, ceny ČNB sa
 
 **Národní rozpočtová rada (NRR)** — nezávislý fiskální orgán zřízený zákonem č. 23/2017 Sb. — dostává od MF informace pro výpočet **dluhové brzdy** (čl. 13 odst. 2 — dluh sektoru veřejných institucí > 55 % HDP spouští korektivní opatření). Rezerva podle § 35 odst. 4 se odečítá → **„čistý dluh"** může být nižší než hrubý.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1774/2013](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2015%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2015&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_1774_2013.txt) — 30. 12. 2014, kat. A
+  > „Vykonatelné usnesení soudu, kterým bylo státu (České republice) uloženo vrátit poplatníku soudní poplatek nebo přeplatek na soudním poplatku, je způsobilým titulem pro výkon rozhodnutí nebo exekuci. V řízení o výkon rozhodnutí nebo v exekučním řízení vedeném podle takového titulu vystupuje za stát (Českou republiku) Ministerstvo financí"
+
 ---
 
 ## HLAVA X — Hospodaření s prostředky Národního fondu
@@ -561,6 +566,11 @@ Odkaz na **ZoFK** i pro **prostředky ze zahraničí** (typicky finanční mecha
 
 **Předfinancování** (písm. e–h) je situace, kdy stát napřed zaplatí ze SR (peníze EU dorazí později); pravidla zacházení jsou stejná.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 101/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB63DF665163ABEDC12588A80017E01F?openDocument) — 14. 6. 2022, kat. A
+  > „Pohledávka z titulu odvodu za porušení rozpočtové kázně vzniká (a stává se splatnou) již dnem porušení rozpočtové kázně, nikoli až vydáním (nebo právní mocí) platebního výměru, jímž příslušný finanční úřad (správce daně) uloží příjemci dotace provést odvod za porušení rozpočtové kázně. Je-li podle rozhodnutí o poskytnutí dotace porušením rozpočtové kázně skutečnost, že ve vymezené době byl prohlášen konkurs na majetek příjemce dotace, pak pohledávka z titulu odvodu za porušení rozpočtové kázně, která vznikla prohlášením konkursu na majetek příjemce dotace, je i tam, kde insolvenční soud spojil rozhodnutí o prohlášení konkursu s rozhodnutím o úpadku dlužníka (§ 148 odst. 1 insolvenčního zákona), pohledávkou vzniklou ve smyslu § 168 odst. 2 písm. e/ insolvenčního zákona „po rozhodnutí o úpadku“ dlužníka. U pohledávky, která je obsažena v taxativním výčtu pohledávek za majetkovou…"
+
 ### § 44a — Odvod a penále
 
 > **§ 44a**
@@ -632,6 +642,11 @@ Odkaz na **ZoFK** i pro **prostředky ze zahraničí** (typicky finanční mecha
 **Výklad:**
 
 **§ 44a je centrální sankční norma RPS** — pravidla pro odvod a penále za porušení rozpočtové kázně. Pět klíčových rysů:
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 101/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB63DF665163ABEDC12588A80017E01F?openDocument) — 14. 6. 2022, kat. A
+  > „Pohledávka z titulu odvodu za porušení rozpočtové kázně vzniká (a stává se splatnou) již dnem porušení rozpočtové kázně, nikoli až vydáním (nebo právní mocí) platebního výměru, jímž příslušný finanční úřad (správce daně) uloží příjemci dotace provést odvod za porušení rozpočtové kázně. Je-li podle rozhodnutí o poskytnutí dotace porušením rozpočtové kázně skutečnost, že ve vymezené době byl prohlášen konkurs na majetek příjemce dotace, pak pohledávka z titulu odvodu za porušení rozpočtové kázně, která vznikla prohlášením konkursu na majetek příjemce dotace, je i tam, kde insolvenční soud spojil rozhodnutí o prohlášení konkursu s rozhodnutím o úpadku dlužníka (§ 148 odst. 1 insolvenčního zákona), pohledávkou vzniklou ve smyslu § 168 odst. 2 písm. e/ insolvenčního zákona „po rozhodnutí o úpadku“ dlužníka. U pohledávky, která je obsažena v taxativním výčtu pohledávek za majetkovou…"
 
 #### 1. Adresát odvodu — komu se platí
 
