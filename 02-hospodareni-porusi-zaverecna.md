@@ -567,15 +567,35 @@ Odkaz na **ZoFK** i pro **prostředky ze zahraničí** (typicky finanční mecha
 >
 > *(1) Organizační složka státu, která porušila rozpočtovou kázeň, je povinna provést prostřednictvím místně příslušného finančního úřadu odvod za porušení rozpočtové kázně do*
 >
-> *- a) státního rozpočtu, jestliže porušila rozpočtovou kázeň podle § 44 odst. 1 písm. a) tím, že neoprávněně použila peněžní prostředky státního rozpočtu podle § 44 odst. 2 písm. j), nebo peněžní prostředky svých mimorozpočtových fondů, nebo podle § 44 odst. 1 písm. d), f), g) a h),*
-> *- b) státního fondu, jestliže porušila rozpočtovou kázeň podle § 44 odst. 1 písm. b) tím, že neoprávněně použila nebo zadržela peněžní prostředky poskytnuté ze státního fondu,*
-> *- c) státních finančních aktiv, jestliže porušila rozpočtovou kázeň podle § 44 odst. 1 písm. a) nebo b) ve vztahu k SFA,*
-> *- d) Národního fondu, ve vztahu k prostředkům NF nebo SF určeným ke spolufinancování EU,*
-> *- e) svého rezervního fondu, jestliže porušila rozpočtovou kázeň podle § 44 odst. 1 písm. a) ve vztahu k prostředkům podle § 44 odst. 2 písm. a) nebo g) (prostředky SR kryté z EU mimo NF).*
+> *- a) státního rozpočtu, jestliže porušila rozpočtovou kázeň*
+>
+> *- 1. podle § 44 odst. 1 písm. a) tím, že neoprávněně použila peněžní prostředky státního rozpočtu podle § 44 odst. 2 písm. j),*
+>
+> *- 2. podle § 44 odst. 1 písm. a) tím, že neoprávněně použila peněžní prostředky svých mimorozpočtových fondů,*
+>
+> *- 3. podle § 44 odst. 1 písm. d), f), g) a h),*
+>
+> *- b) státního fondu, jestliže porušila rozpočtovou kázeň podle § 44 odst. 1 písm. b) tím, že neoprávněně použila nebo zadržela peněžní prostředky poskytnuté ze státního fondu,23) mimo prostředky poskytnuté ze státního fondu na programy nebo projekty spolufinancované z rozpočtu Evropské unie, které jsou státním fondem označeny jako prostředky odpovídající spolufinancování z rozpočtu Evropské unie,*
+>
+> *- c) státních finančních aktiv, jestliže porušila rozpočtovou kázeň podle § 44 odst. 1 písm. a) tím, že neoprávněně použila peněžní prostředky státních finančních aktiv, nebo jestliže porušila rozpočtovou kázeň podle § 44 odst. 1 písm. b) tím, že neoprávněně použila nebo zadržela peněžní prostředky poskytnuté ze státních finančních aktiv,*
+>
+> *- d) Národního fondu, jestliže porušila rozpočtovou kázeň podle § 44 odst. 1 písm. b) tím, že neoprávněně použila nebo zadržela peněžní prostředky podle § 44 odst. 2 písm. c) nebo e) nebo prostředky poskytnuté ze státního fondu na programy nebo projekty spolufinancované z rozpočtu Evropské unie, které jsou státním fondem označeny jako prostředky odpovídající spolufinancování z rozpočtu Evropské unie,*
+>
+> *- e) svého rezervního fondu, jestliže porušila rozpočtovou kázeň podle § 44 odst. 1 písm. a) tím, že neoprávněně použila peněžní prostředky státního rozpočtu podle § 44 odst. 2 písm. a) nebo g).*
 >
 > *(2) Příspěvková organizace, která porušila rozpočtovou kázeň podle § 44 odst. 1 písm. a), c) nebo e), je povinna provést prostřednictvím místně příslušného finančního úřadu odvod za porušení rozpočtové kázně do státního rozpočtu. Státní fond, který porušil rozpočtovou kázeň podle § 44 odst. 1 písm. a), je povinen provést prostřednictvím místně příslušného finančního úřadu odvod za porušení rozpočtové kázně do státního rozpočtu. Příjemce dotace, který porušil rozpočtovou kázeň podle § 44 odst. 1 písm. l), je povinen provést prostřednictvím místně příslušného finančního úřadu odvod za porušení rozpočtové kázně do státního rozpočtu.*
 >
-> *(3) Fyzická osoba nebo právnická osoba jiná než stát, která porušila rozpočtovou kázeň, je povinna provést prostřednictvím místně příslušného finančního úřadu odvod za porušení rozpočtové kázně do (a)–(e) — paralelně k odst. 1 (SR / SF / SFA / NF / rezervní fond OSS poskytovatele).*
+> *(3) Fyzická osoba nebo právnická osoba jiná než stát, která porušila rozpočtovou kázeň, je povinna provést prostřednictvím místně příslušného finančního úřadu odvod za porušení rozpočtové kázně do*
+>
+> *- a) státního rozpočtu, jestliže porušila rozpočtovou kázeň podle § 44 odst. 1 písm. b) tím, že neoprávněně použila nebo zadržela peněžní prostředky podle § 44 odst. 2 písm. k), nebo jestliže porušila rozpočtovou kázeň podle § 44 odst. 1 písm. i), j) nebo k),*
+>
+> *- b) státního fondu, jestliže není státním fondem a porušila rozpočtovou kázeň podle § 44 odst. 1 písm. b) tím, že neoprávněně použila nebo zadržela peněžní prostředky poskytnuté z tohoto státního fondu, mimo prostředky poskytnuté ze státního fondu na programy nebo projekty spolufinancované z rozpočtu Evropské unie, které jsou státním fondem označeny jako prostředky odpovídající spolufinancování z rozpočtu Evropské unie,*
+>
+> *- c) státních finančních aktiv, jestliže porušila rozpočtovou kázeň podle § 44 odst. 1 písm. b) tím, že neoprávněně použila nebo zadržela peněžní prostředky poskytnuté ze státních finančních aktiv,*
+>
+> *- d) Národního fondu, jestliže porušila rozpočtovou kázeň podle § 44 odst. 1 písm. b) tím, že neoprávněně použila nebo zadržela peněžní prostředky poskytnuté z Národního fondu, nebo tím, že neoprávněně použila nebo zadržela peněžní prostředky podle § 44 odst. 2 písm. d) nebo f) nebo prostředky poskytnuté ze státního fondu na programy nebo projekty spolufinancované z rozpočtu Evropské unie, které jsou státním fondem označeny jako prostředky odpovídající spolufinancování z rozpočtu Evropské unie nebo jestliže porušila rozpočtovou kázeň podle § 44 odst. 1 písm. i) nebo j),*
+>
+> *- e) rezervního fondu organizační složky státu, která jí poskytla dotaci nebo návratnou finanční výpomoc, jestliže porušila rozpočtovou kázeň podle § 44 odst. 1 písm. b) tím, že neoprávněně použila nebo zadržela peněžní prostředky podle § 44 odst. 2 písm. b) nebo h).*
 >
 > *(4) Odvod za porušení rozpočtové kázně činí*
 >
@@ -591,13 +611,13 @@ Odkaz na **ZoFK** i pro **prostředky ze zahraničí** (typicky finanční mecha
 >
 > *(7) Do plnění povinnosti provést odvod za porušení rozpočtové kázně, kterým je neoprávněné použití nebo zadržení prostředků návratné finanční výpomoci, se započítávají i splátky této výpomoci uskutečněné ode dne porušení rozpočtové kázně.*
 >
-> *(8) Při neoprávněném použití prostředků dotace nebo návratné finanční výpomoci, jejíž součástí byly prostředky podle § 44 odst. 2 písm. b), d), f) nebo h), nebo při zadržení takové návratné finanční výpomoci se odvod za porušení rozpočtové kázně rozdělí na odvod pro státní rozpočet a odvod pro rezervní fond organizační složky státu, která dotaci nebo návratnou finanční výpomoc poskytla, nebo pro Národní fond ve stejném poměru, v jakém tato dotace nebo návratná finanční výpomoc byla z těchto prostředků složena […].*
+> *(8) Při neoprávněném použití prostředků dotace nebo návratné finanční výpomoci, jejíž součástí byly prostředky podle § 44 odst. 2 písm. b), d), f) nebo h), nebo při zadržení takové návratné finanční výpomoci se odvod za porušení rozpočtové kázně rozdělí na odvod pro státní rozpočet a odvod pro rezervní fond organizační složky státu, která dotaci nebo návratnou finanční výpomoc poskytla, nebo pro Národní fond ve stejném poměru, v jakém tato dotace nebo návratná finanční výpomoc byla z těchto prostředků složena [§ 14 odst. 4 písm. h) a § 44 odst. 6]. Obdržel-li porušitel rozpočtové kázně na stejný účel více dotací nebo návratných finančních výpomocí, počítá se tento poměr z celkové částky, a to ke dni neoprávněného použití.*
 >
 > *(9) Odvod za porušení rozpočtové kázně nemůže být vyšší než celková částka dotace, která byla vyplacena ke dni porušení rozpočtové kázně; ustanovení § 44 odst. 1 písm. j) není tímto dotčeno.*
 >
 > *(10) Za prodlení s odvodem za porušení rozpočtové kázně je porušitel rozpočtové kázně povinen zaplatit penále ve výši 0,4 promile z částky odvodu za každý den prodlení, nejvýše však do výše tohoto odvodu. Penále se počítá ode dne následujícího po dni, kdy došlo k porušení rozpočtové kázně, do dne, kdy byly prostředky odvedeny nebo u návratných finančních výpomocí vráceny. Příjemce penále je stejný jako příjemce odvodu s výjimkou případů, kdy příjemcem odvodu je Národní fond. V těchto případech je příjemcem penále státní rozpočet [§ 6 odst. 1 písm. n)]. Penále, které v jednotlivých případech nepřesáhne 500 Kč, se nevyměří.*
 >
-> *(11) Správu odvodů za porušení rozpočtové kázně a penále vykonávají finanční úřady podle daňového řádu. Porušitel rozpočtové kázně má při správě odvodů za porušení rozpočtové kázně postavení daňového subjektu. Orgány Finanční správy České republiky poskytují na vyžádání informace získané při správě odvodů správnímu orgánu, který rozhodl o poskytnutí prostředků ze státního rozpočtu, státních finančních aktiv, státního fondu nebo Národního fondu, a orgánu oprávněnému ke kontrole těchto poskytnutých prostředků, jakož i ke kontrole použití prostředků státního rozpočtu nebo jiných peněžních prostředků státu, jde-li o informace týkající se správy odvodu za porušení rozpočtové kázně; to platí i pro příslušný orgán Evropské unie a správní orgán, který se podílí na správě těchto prostředků poskytnutých ze zahraničí. Penále, které vzniklo v důsledku porušení rozpočtové kázně před vyměřením, je splatné do 30 dnů ode dne doručení platebního výměru. Odvod a penále lze vyměřit do 10 let od 1. ledna roku následujícího po roce, v němž došlo k porušení rozpočtové kázně.*
+> *(11) Správu odvodů za porušení rozpočtové kázně a penále vykonávají finanční úřady podle daňového řádu24a). Porušitel rozpočtové kázně má při správě odvodů za porušení rozpočtové kázně postavení daňového subjektu. Orgány Finanční správy České republiky poskytují na vyžádání informace získané při správě odvodů správnímu orgánu, který rozhodl o poskytnutí prostředků ze státního rozpočtu, státních finančních aktiv, státního fondu nebo Národního fondu, a orgánu oprávněnému ke kontrole těchto poskytnutých prostředků, jakož i ke kontrole použití prostředků státního rozpočtu nebo jiných peněžních prostředků státu, jde-li o informace týkající se správy odvodu za porušení rozpočtové kázně; to platí i pro příslušný orgán Evropské unie a správní orgán, který se podílí na správě těchto prostředků poskytnutých ze zahraničí. Penále, které vzniklo v důsledku porušení rozpočtové kázně před vyměřením, je splatné do 30 dnů ode dne doručení platebního výměru. Odvod a penále lze vyměřit do 10 let od 1. ledna roku následujícího po roce, v němž došlo k porušení rozpočtové kázně.*
 >
 > *(12) Generální finanční ředitelství může z důvodů hodných zvláštního zřetele zcela nebo zčásti prominout odvod za porušení rozpočtové kázně nebo penále za prodlení s ním, s výjimkou odvodu neoprávněně použitých nebo zadržených peněžních prostředků podle § 44 odst. 2 písm. a) a b) nebo odvodu peněžních prostředků podle § 44 odst. 2 písm. i).*
 >
@@ -669,17 +689,17 @@ Podle toho, kdo porušil a co bylo porušeno (odst. 1–3):
 >
 > *(2) Organizační složka státu je povinna dbát, aby dosahovala příjmů stanovených rozpočtem a plnila určené úkoly nejhospodárnějším způsobem. Prostředky, kterými disponuje, může používat na krytí nezbytných potřeb a na opatření zakládající se na právních předpisech. Prostředky může čerpat jen do výše závazných ukazatelů stanovených jí zákonem o státním rozpočtu nebo správcem kapitoly v rámci rozpočtu kapitoly a v souladu s věcným plněním, nestanoví-li tento zákon jinak (§ 24, 25 a 47).*
 >
-> *(3) Organizační složka státu dále hospodaří s mimorozpočtovými zdroji, kterými jsou prostředky fondů organizační složky státu, zisk získaný hospodářskou činností vykonávanou na základě zvláštního zákona, peněžité dary a prostředky poskytnuté ze zahraničí podle jejich vymezení na základě právního aktu, kterým byly poskytnuty a prostředky zvláštních účtů k financování obměn a záměn státních hmotných rezerv podle zvláštního předpisu. Mimorozpočtové zdroje, s výjimkou prostředků fondu kulturních a sociálních potřeb určených na jiné účely než na financování reprodukce dlouhodobého hmotného majetku, se používají prostřednictvím rozpočtu. […]*
+> *(3) Organizační složka státu dále hospodaří s mimorozpočtovými zdroji, kterými jsou prostředky fondů organizační složky státu, zisk získaný hospodářskou činností vykonávanou na základě zvláštního zákona, peněžité dary a prostředky poskytnuté ze zahraničí podle jejich vymezení na základě právního aktu, kterým byly poskytnuty a prostředky zvláštních účtů k financování obměn a záměn státních hmotných rezerv podle zvláštního předpisu24b). Mimorozpočtové zdroje, s výjimkou prostředků fondu kulturních a sociálních potřeb určených na jiné účely než na financování reprodukce dlouhodobého hmotného majetku, se používají prostřednictvím rozpočtu. Prostředky fondu kulturních a sociálních potřeb určené na jiné účely než na financování reprodukce dlouhodobého hmotného majetku se používají přímo; přímo se používají i prostředky zvláštních účtů k účelům stanoveným zákonem upravujícím činnost Správy státních hmotných rezerv.*
 >
 > *(4) Organizační složka státu sestavuje rozpočet příjmů a výdajů v členění podle rozpočtové skladby. Veškeré rozpočtové příjmy dosažené v rámci svého hospodaření soustřeďuje na svém příjmovém účtu státního rozpočtu a uhrazuje všechny rozpočtové výdaje ze svého výdajového účtu státního rozpočtu. Zůstatky těchto účtů Česká národní banka uspořádá vždy ke dni 31. prosince tak, aby výsledný zůstatek těchto účtů byl nulový.*
 >
 > *(5) Každá organizační složka státu zřídí u České národní banky jeden příjmový a jeden výdajový účet státního rozpočtu. Výjimku z důvodu složité vnitřní organizační struktury organizační složky státu může povolit ministerstvo. Ministerstvo může zřídit jeden příjmový a jeden výdajový účet státního rozpočtu pro každou kapitolu, jejímž je správcem.*
 >
-> *(6) Organizační složka státu zřizuje účty fondů tvořených podle tohoto zákona, účet cizích prostředků, účet sdružených prostředků a účty, o kterých to stanoví zvláštní právní předpis nebo z povahy příjmů a výdajů dané právním předpisem vyplývá, že nejsou součástí příjmů nebo výdajů státního rozpočtu. Ministerstvo zahraničních věcí zřizuje zvláštní účet pro vedení zálohy k zajištění financování vnitřních organizačních jednotek, které jsou zastupitelskými úřady České republiky v zahraničí.*
+> *(6) Organizační složka státu zřizuje účty fondů tvořených podle tohoto zákona, účet cizích prostředků, účet sdružených prostředků a účty, o kterých to stanoví zvláštní právní předpis nebo z povahy příjmů a výdajů dané právním předpisem vyplývá, že nejsou součástí příjmů nebo výdajů státního rozpočtu.25) Ministerstvo zahraničních věcí zřizuje zvláštní účet pro vedení zálohy k zajištění financování vnitřních organizačních jednotek, které jsou zastupitelskými úřady České republiky v zahraničí.*
 >
 > *(7) Organizační složka státu může po předchozím souhlasu ministerstva uděleném na základě odůvodněné žádosti zřizovat účty u bank nebo ostatních poskytovatelů platebních služeb a je povinna informovat ministerstvo do desátého dne každého měsíce o zůstatku k poslednímu dni předcházejícího měsíce a o průměrné výši prostředků za předcházející měsíc na každém z těchto účtů.*
 >
-> *(8) Pomine-li důvod, pro který byly účty podle odstavce 7 zřízeny, převede organizační složka státu neprodleně veškeré peněžní prostředky na svůj příjmový účet a účty neprodleně zruší. […]*
+> *(8) Pomine-li důvod, pro který byly účty podle odstavce 7 zřízeny, převede organizační složka státu neprodleně veškeré peněžní prostředky na svůj příjmový účet a účty neprodleně zruší. Ustanovení § 49 odst. 7 není dotčeno.*
 >
 > *(9) Zůstatky na účtech podle odstavce 6 koncem roku nepropadají.*
 >
@@ -687,9 +707,9 @@ Podle toho, kdo porušil a co bylo porušeno (odst. 1–3):
 >
 > *(11) Soustřeďovat příjmy na jiných účtech a uhrazovat výdaje z jiných účtů může organizační složka státu jen v případech stanovených tímto zákonem. Příjmy státního rozpočtu soustředěné na jiných než příjmových účtech je organizační složka státu povinna do 30 pracovních dnů po připsání částky na její účet, případně do 5 pracovních dnů od okamžiku, kdy je nepochybné, že prostředky mají být příjmem státního rozpočtu nebo je nepochybné, příjmem které organizační složky státu mají být, odvést do státního rozpočtu, pokud tento zákon nestanoví jinak.*
 >
-> *(12) Organizační složka státu je oprávněna překročit závazné ukazatele výdajů státního rozpočtu podle jejich vymezení o příjmy podle zákona č. 133/1985 Sb., ve znění pozdějších předpisů, s výjimkou vybraných pokut, o prostředky přijaté z rozpočtu územního samosprávného celku, od jiné právnické osoby nebo od fyzické osoby pro účely požární ochrany, integrovaného záchranného systému a ochrany obyvatel prováděné organizačními složkami státu zřízenými zákonem o Hasičském záchranném sboru České republiky […].*
+> *(12) Organizační složka státu je oprávněna překročit závazné ukazatele výdajů státního rozpočtu podle jejich vymezení o příjmy podle zákona č. 133/1985 Sb., ve znění pozdějších předpisů, s výjimkou vybraných pokut, o prostředky přijaté z rozpočtu územního samosprávného celku, od jiné právnické osoby nebo od fyzické osoby pro účely požární ochrany, integrovaného záchranného systému a ochrany obyvatel prováděné organizačními složkami státu zřízenými zákonem o Hasičském záchranném sboru České republiky na základě právního aktu, kterým byly poskytnuty, a o prostředky přijaté ze zvláštního účtu Ministerstva spravedlnosti podle zákona o použití peněžních prostředků z majetkových trestních sankcí.*
 >
-> *(13) Ministerstvo zřídí účet u České národní banky, na který budou převáděny peněžní prostředky určené jako vlastní zdroje Evropské unie.*
+> *(13) Ministerstvo zřídí účet u České národní banky, na který budou převáděny peněžní prostředky určené jako vlastní zdroje Evropské unie25a).*
 
 **Výklad:**
 
@@ -722,28 +742,78 @@ Podle toho, kdo porušil a co bylo porušeno (odst. 1–3):
 > *(1) Pro účely tohoto zákona se rozumí*
 >
 > *- a) konečným rozpočtem výdajů organizační složky státu rozpočet těchto výdajů upravený o všechna provedená rozpočtová opatření,*
+>
 > *- b) profilujícími výdaji výdaje*
->   *- 1. na platy státních zaměstnanců,*
->   *- 2. na platy a ostatní platby za provedenou práci kromě platů státních zaměstnanců,*
->   *- 3. na jejichž provedení dostává Česká republika peněžní prostředky nebo jejich část z rozpočtu Evropské unie,*
->   *- 4. na jejichž provedení dostává Česká republika peněžní prostředky nebo jejich část z finančních mechanismů,*
->   *- 5. na jejichž provedení dostává Česká republika peněžní prostředky nebo jejich část od Organizace Severoatlantické smlouvy,*
->   *- 6. na programy podle § 13 odst. 3,*
->   *- 7. účelově určené podle § 21 odst. 3 a 4,*
->   *- 8. na výzkum a vývoj,*
->   *- 9. na sociální dávky,*
+>
+> *  - 1. na platy státních zaměstnanců42),*
+>
+> *  - 2. na platy a ostatní platby za provedenou práci43) kromě platů státních zaměstnanců,*
+>
+> *  - 3. na jejichž provedení dostává Česká republika peněžní prostředky nebo jejich část z rozpočtu Evropské unie,*
+>
+> *  - 4. na jejichž provedení dostává Česká republika peněžní prostředky nebo jejich část z finančních mechanismů,*
+>
+> *  - 5. na jejichž provedení dostává Česká republika peněžní prostředky nebo jejich část od Organizace Severoatlantické smlouvy,*
+>
+> *  - 6. na programy podle § 13 odst. 3,*
+>
+> *  - 7. účelově určené podle § 21 odst. 3 a 4,*
+>
+> *  - 8. na výzkum a vývoj25b),*
+>
+> *  - 9. na sociální dávky25c),*
+>
 > *- c) neprofilujícími výdaji výdaje jiné než podle písmene b),*
+>
 > *- d) nároky z nespotřebovaných výdajů ke dni 1. ledna běžného roku rozdíl mezi konečným rozpočtem výdajů na minulý rok a skutečnými rozpočtovými výdaji za minulý rok zvýšený o nároky z nespotřebovaných výdajů ke dni 31. prosince minulého roku.*
 >
-> *(2) Organizační složka státu vypočítá nároky z nespotřebovaných výdajů ke dni 1. ledna běžného roku podle odstavce 1 písm. d). O částku těchto nároků může překročit rozpočet výdajů běžného roku při dodržení účelovosti podle odstavce 5. […]*
+> *(2) Organizační složka státu vypočítá nároky z nespotřebovaných výdajů ke dni 1. ledna běžného roku podle odstavce 1 písm. d). O částku těchto nároků může překročit rozpočet výdajů běžného roku při dodržení účelovosti podle odstavce 5. Každou částku, o kterou se při využívání tohoto práva rozhodne tento rozpočet překročit, zanese do evidence nároků z nespotřebovaných výdajů a zařadí na příslušnou položku a paragraf rozpočtové skladby. Tím se stane oprávněnou překročit rozpočet výdajů podle § 25 odst. 1 písm. b) a tato částka se stane součástí konečného rozpočtu výdajů. O každou takovou částku se částka nároků z nespotřebovaných výdajů sníží.*
 >
 > *(3) Rozpočet výdajů nelze překročit způsobem stanoveným v odstavci 2 v kapitolách Všeobecná pokladní správa a Státní dluh.*
 >
-> *(4) Organizační složka státu člení nároky z nespotřebovaných výdajů sestupně na (a) nároky z nespotřebovaných profilujících výdajů […], (b) nároky z nespotřebovaných neprofilujících výdajů.*
+> *(4) Organizační složka státu člení nároky z nespotřebovaných výdajů sestupně na*
+>
+> *- a) nároky z nespotřebovaných profilujících výdajů, kterými jsou nároky z nespotřebovaných výdajů*
+>
+> *  - 1. na platy státních zaměstnanců42),*
+>
+> *  - 2. na platy a ostatní platby za provedenou práci43) kromě platů státních zaměstnanců,*
+>
+> *  - 3. na jejichž provedení dostává Česká republika peněžní prostředky nebo jejich část z rozpočtu Evropské unie; ty dále člení na nároky z nespotřebovaných výdajů, které jsou nebo mají být kryty peněžními prostředky z rozpočtu Evropské unie, a na nároky ze zbývající části těchto nespotřebovaných výdajů; nároky z nespotřebovaných výdajů na programy a projekty spolufinancované z rozpočtu Evropské unie člení podle těchto programů a projektů,*
+>
+> *  - 4. na jejichž provedení dostává Česká republika peněžní prostředky nebo jejich část z finančních mechanismů; ty dále člení na nároky z nespotřebovaných výdajů, které jsou nebo mají být kryty peněžními prostředky z těchto finančních mechanismů, a na nároky ze zbývající části těchto nespotřebovaných výdajů,*
+>
+> *  - 5. na jejichž provedení dostává Česká republika peněžní prostředky nebo jejich část od Organizace Severoatlantické smlouvy,*
+>
+> *  - 6. na programy podle § 13 odst. 3; ty dále člení podle jednotlivých programů,*
+>
+> *  - 7. účelově určených podle § 21 odst. 3 a 4; ty dále člení podle stanovených účelů,*
+>
+> *  - 8. na výzkum a vývoj25b),*
+>
+> *- b) nároky z nespotřebovaných neprofilujících výdajů.*
 >
 > *(5) Organizační složka státu používá částky z nároků z nespotřebovaných profilujících výdajů na tytéž účely, na něž byly vyčleněny podle odstavce 4, a u programů a projektů spolufinancovaných z rozpočtu Evropské unie nebo finančních mechanismů a programů podle § 13 odst. 3 na tytéž programy a projekty, z nichž nároky vznikly. Částky z nároků z nespotřebovaných neprofilujících výdajů používá na neprofilující výdaje; na profilující výdaje je použije, rozhodne-li tak vláda.*
 >
-> *(6)–(8) [snížení nároků, výkaz, situace vzniku nároku — viz zdrojový text.]*
+> *(6) Nároky z nespotřebovaných výdajů se snižují*
+>
+> *- a) o částky, o které se organizační složka státu rozhodla překročit rozpočet výdajů a které jako takové zanesla do evidence nároků z nespotřebovaných výdajů,*
+>
+> *- b) o částky určené na programy a projekty spolufinancované z rozpočtu Evropské unie nebo finančních mechanismů a programy podle § 13 odst. 3, které již skončily,*
+>
+> *- c) o částky podle rozhodnutí vlády, případně, jestliže vláda tyto částky nerozdělila podle jednotlivých organizačních složek státu nebo podle odstavce 4, doplněné o rozhodnutí správce kapitoly,*
+>
+> *- d) o částky, u kterých organizační složka státu zjistila, že je již nepoužije,*
+>
+> *- e) u profilujících výdajů o částky, u nichž pomine účel jejich narozpočtování.*
+>
+> *(7) Za každý měsíc se v rozpočtovém systému [§ 3 písm. o)] sestavuje výkaz, který vychází z evidence nároků z nespotřebovaných výdajů. Jeho rozsah, způsob sestavení, obsah a způsob předkládání stanoví ministerstvo vyhláškou.*
+>
+> *(8) Nárok nevzniká*
+>
+> *- a) není-li vykázán za minulý rok ve výkaze podle odstavce 7 za leden běžného roku,*
+>
+> *- b) u profilujících výdajů podle odstavce 1 písm. b) bodu 9.*
 
 **Výklad:**
 
@@ -787,18 +857,50 @@ Podle toho, kdo porušil a co bylo porušeno (odst. 1–3):
 > *(1) Organizační složka státu tvoří tyto peněžní fondy:*
 >
 > *- a) rezervní fond,*
+>
 > *- b) fond kulturních a sociálních potřeb.*
 >
 > *(2) Zdrojem rezervního fondu jsou*
 >
 > *- a) prostředky poskytnuté ze zahraničí, prostředky poskytnuté územními samosprávnými celky a peněžní dary,*
+>
 > *- b) odvody neoprávněně použitých nebo zadržených peněžních prostředků podle § 44 odst. 2 písm. a), b), g) a h) a penále za prodlení s nimi,*
+>
 > *- c) příjmy z prodeje majetku, který organizační složka státu nabyla darem nebo děděním s výjimkou majetku nabytého z odúmrti,*
-> *- d) prostředky poskytnuté z fondu zábrany škod podle zvláštního zákona.*
 >
-> *(3)–(7) [členění, použití, vrácení nepoužitých částek, historický odst. 7]*
+> *- d) prostředky poskytnuté z fondu zábrany škod podle zvláštního zákona45).*
 >
-> *(8) Fond kulturních a sociálních potřeb je tvořen základním přídělem z rozpočtu organizační složky státu ve výši 1 % z ročního objemu nákladů zúčtovaných na platy a náhrady platů, popřípadě na mzdy a náhrady mzdy a odměny za pracovní pohotovost, […]. Fond kulturních a sociálních potřeb je naplňován zálohově z roční plánované výše v souladu s jeho schváleným rozpočtem. Vyúčtování skutečného základního přídělu se provede v rámci účetní závěrky. Je tvořen k zabezpečování kulturních, sociálních a dalších potřeb a je určen zaměstnancům v pracovním poměru k zaměstnavateli, státním zaměstnancům podle zákona o státní službě, příslušníkům ve služebním poměru, soudcům, žákům středních odborných učilišť a učilišť, důchodcům, kteří při prvém odchodu do starobního důchodu nebo invalidního důchodu pro invaliditu třetího stupně pracovali u zaměstnavatele, případně rodinným příslušníkům zaměstnanců a jiným právnickým nebo fyzickým osobám.*
+> *(3) Organizační složka státu člení prostředky v rezervním fondu podle původu, a to na*
+>
+> *- a) prostředky poskytnuté ze zahraničí, prostředky poskytnuté územními samosprávnými celky a peněžní dary, a to dále na*
+>
+> *  - 1. prostředky, které jí byly poskytnuty na určitý účel, a to podle těchto účelů,*
+>
+> *  - 2. prostředky, které jí byly poskytnuty bez uvedení účelu,*
+>
+> *- b) odvody neoprávněně použitých nebo zadržených peněžních prostředků podle § 44 odst. 2 písm. a), b), g) a h) a penále za prodlení s nimi; tyto odvody a penále dále člení podle původních účelů; původním účelem se rozumí účel, na který organizační složka státu určila dotace nebo návratné finanční výpomoci, při jejichž používání jejich příjemci porušili rozpočtovou kázeň a za to do jejího rezervního fondu tyto odvody provedli a tato penále zaplatili,*
+>
+> *- c) příjmy z prodeje majetku, který pro Českou republiku nabyla organizační složka státu darem nebo děděním,*
+>
+> *- d) prostředky poskytnuté z fondu zábrany škod podle zvláštního zákona45).*
+>
+> *(4) Prostředky rezervního fondu používá organizační složka státu tak, že*
+>
+> *- a) prostředky podle odstavce 3 písm. a), které jí byly poskytnuty na určitý účel, používá na tento účel a prostředky, které jí byly poskytnuty bez uvedení účelu, používá na výdaje na rozpočtem nezajištěné provozní potřeby a na výdaje, které v mimořádných případech povolí vláda,*
+>
+> *- b) prostředky podle odstavce 3 písm. b) používá na dotace a návratné finanční výpomoci na původní účely,*
+>
+> *- c) prostředky podle odstavce 3 písm. c) používá na výdaje na reprodukci majetku,*
+>
+> *- d) prostředky poskytnuté z fondu zábrany škod používá na úhradu stanovenou zákonem upravujícím pojištění odpovědnosti z provozu vozidla46).*
+>
+> *(5) Organizační složka státu, která přijala přímo do rezervního fondu peněžní prostředky, které má povinnost po jejich použití na stanovený účel vyúčtovat a nespotřebovaný zbytek vrátit, vrátí tento jejich nespotřebovaný zbytek poskytovateli přímo z rezervního fondu. § 45 odst. 3 věta druhá se zde nepoužije.*
+>
+> *(6) Prostředky rezervního fondu, které do něj byly převedeny podle § 44a odst. 1 písm. e) a odst. 3 písm. e) a které není možné použít na příslušné programy a projekty [odstavec 4 písm. b)], protože už skončily, organizační složka státu vrátí nejpozději ve lhůtách finančního vypořádání se státním rozpočtem za rok, v kterém byl program nebo projekt ukončen.*
+>
+> *(7) O prostředcích převedených do rezervních fondů podle § 47 ve znění účinném ode dne 7. září 2004 do dne 29. února 2008 může vláda rozhodnout, že budou převedeny do příjmů státního rozpočtu kapitoly Všeobecná pokladní správa a použity buď na snížení schodku státního rozpočtu nebo podle § 24 odst. 1 písm. d).*
+>
+> *(8) Fond kulturních a sociálních potřeb je tvořen základním přídělem z rozpočtu organizační složky státu ve výši 1 % z ročního objemu nákladů zúčtovaných na platy a náhrady platů, popřípadě na mzdy a náhrady mzdy a odměny za pracovní pohotovost, na odměny a ostatní plnění za práci vykonávanou v rámci odborného výcviku na produktivních činnostech žákům učilišť a na stipendia zaměstnancům na studijních pobytech. Fond kulturních a sociálních potřeb je naplňován zálohově z roční plánované výše v souladu s jeho schváleným rozpočtem. Vyúčtování skutečného základního přídělu se provede v rámci účetní závěrky. Je tvořen k zabezpečování kulturních, sociálních a dalších potřeb a je určen zaměstnancům v pracovním poměru k zaměstnavateli, státním zaměstnancům podle zákona o státní službě, příslušníkům ve služebním poměru, soudcům, žákům středních odborných učilišť a učilišť, důchodcům, kteří při prvém odchodu do starobního důchodu nebo invalidního důchodu pro invaliditu třetího stupně pracovali u zaměstnavatele, případně rodinným příslušníkům zaměstnanců a jiným právnickým nebo fyzickým osobám.*
 
 **Výklad:**
 
@@ -824,13 +926,31 @@ Použití FKSP upravuje **vyhláška č. 114/2002 Sb., o FKSP** (společný pře
 
 > **§ 49**
 >
-> *(1) Organizační složka státu není, pokud tento zákon nestanoví jinak, oprávněna přijímat ani poskytovat úvěry, přijímat zápůjčky, vystavovat směnky ani je přijímat. Zápůjčky může poskytovat pouze z fondu kulturních a sociálních potřeb nebo na základě zvláštního právního předpisu. […]*
+> *(1) Organizační složka státu není, pokud tento zákon nestanoví jinak, oprávněna přijímat ani poskytovat úvěry, přijímat zápůjčky, vystavovat směnky ani je přijímat. Zápůjčky může poskytovat pouze z fondu kulturních a sociálních potřeb nebo na základě zvláštního právního předpisu.26) Ministerstvo vystavuje jménem České republiky směnky nebo šeky k vypořádání restitučních nároků oprávněných osob, kterým byla přiznána náhrada podle zákona č. 87/1991 Sb., o mimosoudních rehabilitacích, ve znění pozdějších předpisů, nebo podle zákona č. 229/1991 Sb., o úpravě vlastnických vztahů k půdě a jinému zemědělskému majetku, ve znění pozdějších předpisů35).*
 >
-> *(2) Organizační složka státu může poskytovat dodavatelům zálohy nejvýše na období jednoho čtvrtletí, a to v závislosti na věcném plnění dodávek výrobků a služeb. Ke konci běžného rozpočtového roku musí být zálohy vyúčtovány, a pokud výše zálohy přesahují výši měsíčního plnění, musí být vráceny do rozpočtu. […]*
+> *(2) Organizační složka státu může poskytovat dodavatelům zálohy nejvýše na období jednoho čtvrtletí, a to v závislosti na věcném plnění dodávek výrobků a služeb. Ke konci běžného rozpočtového roku musí být zálohy vyúčtovány, a pokud výše zálohy přesahují výši měsíčního plnění, musí být vráceny do rozpočtu. Podle věty první a druhé nemusí organizační složka státu postupovat u záloh za dodávky elektřiny, plynu, vody, tepla, u záloh mobilním operátorům, u záloh na pohonné hmoty poskytovaných prostřednictvím platebních karet, u záloh poskytovaných ke splnění povinnosti uložené zvláštním právním předpisem a u předplatného novin a časopisů; záloha však v těchto případech nesmí být poskytnuta na dobu delší než 12 měsíců, pokud ze zvláštního právního předpisu nevyplývá jiná doba. Při financování potřeb výdajových investičních akcí je výše záloh a období, na které se zálohy poskytují, stanovena správcem rozpočtové kapitoly.*
 >
 > *(3) Z rozpočtu běžného roku kapitoly Ministerstvo práce a sociálních věcí lze poskytnout České poště zálohu na výplatu důchodů v prvních lednových dnech roku následujícího.*
 >
-> *(4)–(11) [úhrada odvodů z fondů, peněžní dary jen z FKSP, ocenění, kompenzace výdajů přijatými příjmy, vracení daní z příjmových účtů SR.]*
+> *(4) Organizační složka státu hradí odvod za porušení rozpočtové kázně a penále ze svého rozpočtu, a pokud jde o porušení pravidel hospodaření s fondem kulturních a sociálních potřeb, z tohoto fondu.*
+>
+> *(5) Organizační složka státu poskytuje peněžní dary pouze z fondu kulturních a sociálních potřeb, pokud tento zákon nestanoví jinak.*
+>
+> *(6) Organizační složka státu může vynakládat peněžní prostředky na peněžní a věcná ocenění pouze v případě, stanoví-li tak právní předpis. Jde-li o ocenění udělované orgány moci výkonné, stanoví vláda nařízením druhy ocenění, podmínky, za kterých jsou udělována, a orgány, které je udělují.*
+>
+> *(7) Organizační složka státu může kompenzovat výdaje přijatými příjmy, jen jde-li o*
+>
+> *- a) prostředky vydané z rozpočtu a v tomtéž rozpočtovém roce do rozpočtu vrácené,*
+>
+> *- b) dodatečnou náhradu dříve vynaložených výdajů v tomtéž rozpočtovém roce, kterou jsou nahrazeny organizační složce státu výdaje, které organizační složka státu zaplatila z provozně technických důvodů, zejména úhradu telefonních poplatků, elektřiny, vodného a stočného,*
+>
+> *- c) náhradu mezd za práci prováděnou zaměstnanci organizační složky pro jinou organizační složku nebo jiný subjekt.*
+>
+> *(8) Kompenzovat lze jen konkrétní podle rozpočtové skladby přesně identifikovaný výdaj, jehož úhrada vyplývá ze smluvních vztahů.*
+>
+> *(9) Kompenzovat nelze výdaje, které organizační složka státu vynaložila při poskytování služeb, které jsou předmětem činnosti, pro kterou byla zřízena, pokud zvláštní právní předpis nestanoví jinak.*
+>
+> *(10) Z příjmových účtů státního rozpočtu je možné vracet daně, odvody, poplatky, podíl na clech podle § 6 odst. 1 písm. c), zálohy na tyto příjmy, odvody za porušení rozpočtové kázně a pokuty, peněžité tresty a kauce, nebo jejich části, a to včetně jejich příslušenství, existuje-li k vracení právní důvod. Takto je možné vracet tyto příjmy nebo jejich části i v letech, která následují po rozpočtovém roce, ve kterém došlo k jejich přijetí do státního rozpočtu. Z příjmových účtů státního rozpočtu je také možné v běžném rozpočtovém roce vracet na účty Národního fondu prostředky, které byly v běžném rozpočtovém roce z Národního fondu vynaloženy na projekty spolufinancované z rozpočtu Evropské unie, a o kterých správce kapitoly dodatečně rozhodl, že budou financovány pouze ze státního rozpočtu.*
 
 **Výklad:**
 
@@ -873,9 +993,19 @@ Pravidla **časového zachycení příjmů** (rok připsání = rok zdanění). 
 
 > **§ 52**
 >
-> *(1) Ministr zahraničních věcí a ministr obrany jsou oprávněni určit vnitřní organizační jednotky svých ministerstev, které působí v zahraničí a kterým se poskytuje záloha na financování jejich provozních činností ze státního rozpočtu. Zálohy se poskytují v hotovosti nebo na běžné účty, které je možné zřídit u bank v zahraničí. […]*
+> *(1) Ministr zahraničních věcí a ministr obrany jsou oprávněni určit vnitřní organizační jednotky svých ministerstev, které působí v zahraničí a kterým se poskytuje záloha na financování jejich provozních činností ze státního rozpočtu. Zálohy se poskytují v hotovosti nebo na běžné účty, které je možné zřídit u bank v zahraničí.*
 >
-> *(2)–(7) [Vyúčtování záloh, odpovědnost zaměstnanců, odvody příjmů, oprávnění MZV zřídit účty v zahraničí pro velvyslanectví — viz zdrojový text.]*
+> *(2) Vnitřní organizační jednotky Ministerstva obrany jsou povinny zálohu vyúčtovat nejpozději k 31. prosinci rozpočtového roku, pokud zvláštní právní předpis nestanoví jinak. Nejpozději ke dni vyúčtování zálohy vrátí Ministerstvo obrany nevyčerpané zálohy poskytnuté podle odstavce 1.*
+>
+> *(3) Pokud ministr zahraničních věcí nebo ministr obrany určil vnitřní organizační jednotky hospodařící se zálohou, musí též určit zaměstnance, kteří odpovídají za hospodaření se zálohou, a uzavřít s těmito zaměstnanci písemné dohody o odpovědnosti k ochraně hodnot svěřených zaměstnanci k vyúčtování podle zvláštního právního předpisu27).*
+>
+> *(4) Vnitřní organizační jednotka, která vybírá jiné rozpočtové příjmy, než jsou výnosy daní, cel nebo pojistného na sociální zabezpečení, je povinna je odvést na příjmový účet zřízený pro organizační složku státu nejpozději koncem každého měsíce. Ministr zahraničních věcí nebo ministr obrany může nařídit odvod i v kratších lhůtách, a to stanovením termínu nebo stanovením částky, při jejímž dosažení musí být příjmy odvedeny.*
+>
+> *(5) Jestliže je vnitřní organizační jednotka Ministerstva obrany oprávněna vybírat příjmy státního rozpočtu, nesmí z nich hradit výdaje.*
+>
+> *(6) Ministerstvo zahraničních věcí může pro vnitřní organizační jednotky, které jsou zastupitelskými úřady České republiky v zahraničí, zřídit běžné účty u bank v zahraničí k soustředění jejich příjmů a k zajištění úhrady jejich výdajů. Tyto organizační jednotky jsou oprávněny používat soustředěné příjmy přímo na úhradu výdajů s tím, že Ministerstvo zahraničních věcí je povinno zajistit pravidelný souhrnný měsíční odvod jejich příjmů do státního rozpočtu. Příjmy a výdaje uskutečněné v zahraničí v období od 1. listopadu do 31. prosince těmito organizačními jednotkami se považují za příjmy a výdaje bezprostředně následujícího rozpočtového roku. Zálohy poskytované z účtu podle § 45 odst. 6 jsou zastupitelské úřady České republiky v zahraničí povinny měsíčně vyúčtovat.*
+>
+> *(7) Úroky z účtů podle odstavců 1 a 6 jsou příjmem státního rozpočtu a úhrady za bankovní služby jsou výdajem státního rozpočtu. Zůstatky na těchto účtech koncem roku nepropadají.*
 
 **Výklad:**
 
@@ -892,11 +1022,21 @@ Specifická úprava pro **velvyslanectví ČR** a **vojenské mise v zahraničí
 
 > **§ 53**
 >
-> *(1) Příspěvková organizace hospodaří s peněžními prostředky získanými hlavní činností a s peněžními prostředky přijatými ze státního rozpočtu pouze v rámci finančních vztahů stanovených zřizovatelem. Dále příspěvková organizace hospodaří s prostředky svých fondů, s prostředky získanými jinou činností, s peněžitými dary od fyzických a právnických osob, s peněžními prostředky poskytnutými ze zahraničí a s peněžními prostředky poskytnutými z rozpočtů územních samosprávných celků a státních fondů, včetně prostředků poskytnutých České republice z rozpočtu Evropské unie, z finančních mechanismů a přijatých příspěvkovými organizacemi z Národního fondu. Hlavní činností je činnost vymezená zřizovateli příspěvkové organizace zvláštním zákonem a vykonávaná příspěvkovou organizací. […]*
+> *(1) Příspěvková organizace hospodaří s peněžními prostředky získanými hlavní činností a s peněžními prostředky přijatými ze státního rozpočtu pouze v rámci finančních vztahů stanovených zřizovatelem. Dále příspěvková organizace hospodaří s prostředky svých fondů, s prostředky získanými jinou činností, s peněžitými dary od fyzických a právnických osob, s peněžními prostředky poskytnutými ze zahraničí a s peněžními prostředky poskytnutými z rozpočtů územních samosprávných celků a státních fondů, včetně prostředků poskytnutých České republice z rozpočtu Evropské unie, z finančních mechanismů a přijatých příspěvkovými organizacemi z Národního fondu. Hlavní činností je činnost vymezená zřizovateli příspěvkové organizace zvláštním zákonem28) a vykonávaná příspěvkovou organizací. V případě příspěvkové organizace zřízené zvláštním zákonem je hlavní činností činnost vymezená zvláštním zákonem.*
 >
 > *(2) Hospodaření příspěvkové organizace se řídí jejím rozpočtem, který po zahrnutí příspěvku ze státního rozpočtu nebo stanovení odvodu do státního rozpočtu musí být sestaven jako vyrovnaný. Rozpočet příspěvkové organizace může zahrnovat pouze náklady a výnosy související jen s jí poskytovanými službami, které jsou předmětem její hlavní činnosti.*
 >
-> *(3)–(8) [pravidla rozpočtu, povinnost vyrovnat hospodaření, odvod prodeje nemovitostí, povolování účtů mimo ČNB.]*
+> *(3) Při sestavení rozpočtu nákladů a výnosů se použití prostředků rezervního fondu a peněžních prostředků poskytnutých ze zahraničí v průběhu roku vždy rozpočtuje. Tento postup nemusí být uplatněn při použití prostředků z dotací poskytnutých podle § 54 odst. 1 písm. b), e) a f) a převedených do rezervního fondu podle § 54 odst. 7.*
+>
+> *(4) Příspěvková organizace je povinna dbát, aby plnila určené úkoly nejhospodárnějším způsobem a dodržela stanovené finanční vztahy ke státnímu rozpočtu. Peněžní prostředky, kterými disponuje, může používat jen k účelům, na které jsou určeny, a to na krytí nezbytných potřeb, na opatření zakládající se na právních předpisech a na krytí opatření nutných k zabezpečení nerušeného chodu organizace. Úhrady, ke kterým se příspěvková organizace zaváže v běžném roce, nesmí překračovat její rozpočet na tento rok.*
+>
+> *(5) Jestliže skutečná výše nákladů a výnosů v průběhu rozpočtového roku neodpovídá jejich rozpočtované výši a je předpoklad, že může být zhoršen rozpočtovaný hospodářský výsledek, je příspěvková organizace povinna učinit opatření, která zajistí jeho vyrovnání.*
+>
+> *(6) Příspěvková organizace je povinna do 15 pracovních dnů po připsání částky na její účet odvést do státního rozpočtu příjmy z prodeje nemovitého majetku České republiky, se kterým hospodaří, s výjimkou příjmů z prodeje nemovitého majetku, který příspěvková organizace nabyla darem nebo děděním.*
+>
+> *(7) Příspěvková organizace může po předchozím souhlasu ministerstva uděleném na základě odůvodněné žádosti zřizovat účty u bank nebo ostatních poskytovatelů platebních služeb a je povinna informovat ministerstvo do desátého dne každého měsíce o zůstatku k poslednímu dni předcházejícího měsíce a o průměrné výši prostředků za předcházející měsíc na každém z těchto účtů. Stejně postupuje také příspěvková organizace mající zastoupení v zahraničí, pokud jde o účty u zahraničních bank nebo ostatních zahraničních poskytovatelů platebních služeb.*
+>
+> *(8) Pomine-li důvod, pro který byly účty podle odstavce 7 zřízeny, převede příspěvková organizace neprodleně veškeré peněžní prostředky do České národní banky na účet, na který přijímá peněžní prostředky plynoucí z její hlavní činnosti, a účty zruší.*
 
 **Výklad:**
 
@@ -916,19 +1056,34 @@ Specifická úprava pro **velvyslanectví ČR** a **vojenské mise v zahraničí
 > *(1) Finanční vztahy stanovené zřizovatelem jsou*
 >
 > *- a) příspěvek na provoz ze státního rozpočtu nebo odvod z provozu do státního rozpočtu,*
+>
 > *- b) individuální a systémové dotace na financování dotačních investičních akcí,*
+>
 > *- c) návratná finanční výpomoc,*
+>
 > *- d) odvod z odpisů,*
+>
 > *- e) dotace na úhradu výdajů, které jsou nebo mají být kryty z rozpočtu Evropské unie včetně stanoveného podílu státního rozpočtu na financování těchto výdajů,*
+>
 > *- f) dotace na úhradu výdajů podle mezinárodních smluv, na základě kterých jsou České republice svěřeny peněžní prostředky z finančních mechanismů včetně stanoveného podílu státního rozpočtu na financování těchto výdajů.*
 >
-> *(2) Příspěvek na provoz se stanoví v případě, že rozpočtované náklady bez příspěvku ze státního rozpočtu překračují rozpočtované výnosy. Odvod z provozu stanoví zřizovatel příspěvkové organizaci v případě, že její rozpočtované výnosy překračují rozpočtované náklady. […]*
+> *(2) Příspěvek na provoz se stanoví v případě, že rozpočtované náklady bez příspěvku ze státního rozpočtu překračují rozpočtované výnosy. Odvod z provozu stanoví zřizovatel příspěvkové organizaci v případě, že její rozpočtované výnosy překračují rozpočtované náklady. Výše příspěvku na provoz nebo výše odvodu z provozu se stanoví jako rozdíl objemu rozpočtovaných nákladů a výnosů hlavní činnosti. Výši příspěvku na provoz a jeho čerpání během roku může zřizovatel vázat na předem stanovené ukazatele, a to zpravidla na jednotku výkonů zabezpečovaných příspěvkovou organizací. Pokud není příspěvek vázán na jednotku výkonů, je organizace oprávněna čerpat příspěvek na činnost do výše závazně stanovené zřizovatelem.*
 >
-> *(3) Při významné změně podmínek, za nichž byl stanoven finanční vztah ke státnímu rozpočtu, krátí zřizovatel příspěvkové organizaci stanovený příspěvek nebo uloží nerozpočtovaný odvod z provozu nebo může zvýšit stanovený příspěvek. […]*
+> *(3) Při významné změně podmínek, za nichž byl stanoven finanční vztah ke státnímu rozpočtu, krátí zřizovatel příspěvkové organizaci stanovený příspěvek nebo uloží nerozpočtovaný odvod z provozu nebo může zvýšit stanovený příspěvek. Příspěvková organizace je povinna takovouto změnu podmínek zřizovateli neprodleně oznámit. V případě stanovení nerozpočtovaného odvodu z provozu stanoví zřizovatel termín splatnosti odvodu.*
 >
-> *(4) Návratnou finanční výpomoc lze poskytnout v případě, že zřizovatel rozhodne o úhradě zhoršeného hospodářského výsledku podle § 55 odst. 2 písm. c). […]*
+> *(4) Návratnou finanční výpomoc lze poskytnout v případě, že zřizovatel rozhodne o úhradě zhoršeného hospodářského výsledku podle § 55 odst. 2 písm. c). Návratná finanční výpomoc poskytnutá v případě, že zřizovatel rozhodne o úhradě zhoršeného hospodářského výsledku podle § 55 odst. 2 písm. c), musí být vrácena do konce rozpočtového roku, v němž měl být zhoršený hospodářský výsledek uhrazen.*
 >
-> *(5)–(7) [odvody odpisů, převod nevyčerpaných dotací do rezervního fondu.]*
+> *(5) Odvod odpisů může zřizovatel stanovit*
+>
+> *- a) jestliže nepočítá s dalším rozvojem činnosti příspěvkové organizace a postupně omezuje její činnost,*
+>
+> *- b) jestliže uvažuje o jejím zrušení,*
+>
+> *- c) v případě, kdy objem odpisů výrazně převyšuje reálné potřeby příspěvkové organizace v oblasti reprodukce dlouhodobého majetku; v tomto případě nesmí celkový odvod odpisů převyšovat objem odpisů z nemovitého majetku.*
+>
+> *(6) Odvody odpisů lze nařídit vždy pouze v běžném roce, a to do výše zdrojů v tomto roce vytvořených.*
+>
+> *(7) Pokud se prostředky poskytnuté podle odstavce 1 písm. b), e) a f) nespotřebují do konce kalendářního roku, převádějí se do rezervního fondu jako zdroj financování v následujících letech a mohou se použít pouze na stanovený účel. V rezervním fondu se tyto zdroje sledují odděleně. Prostředky, které na stanovený účel nebyly použity, podléhají finančnímu vypořádání se státním rozpočtem za rok, ve kterém byl splněn účel, na který byla dotace poskytnuta.*
 
 **Výklad:**
 
@@ -1036,12 +1191,16 @@ Specifická úprava pro **velvyslanectví ČR** a **vojenské mise v zahraničí
 > *(2) Prostředků rezervního fondu lze použít*
 >
 > *- a) k úhradě zhoršeného hospodářského výsledku,*
+>
 > *- b) k úhradě sankcí,*
+>
 > *- c) k úhradě zhoršených hospodářských výsledků vzniklých před nabytím účinnosti tohoto zákona podle § 55 odst. 2,*
+>
 > *- d) k doplnění fondu reprodukce majetku se souhlasem zřizovatele,*
+>
 > *- e) k překlenutí časového nesouladu mezi výnosy a náklady.*
 >
-> *(3) K úhradě potřeb nezajištěných výnosy příspěvkové organizace nebo příspěvkem zřizovatele na provoz lze rezervní fond použít v průběhu roku pouze v případě, že jeho použití bylo rozpočtováno. […]*
+> *(3) K úhradě potřeb nezajištěných výnosy příspěvkové organizace nebo příspěvkem zřizovatele na provoz lze rezervní fond použít v průběhu roku pouze v případě, že jeho použití bylo rozpočtováno. V tomto případě se jeho použití účtuje do výnosů příspěvkové organizace. Nespotřebovaná část rozpočtovaná na krytí potřeb a převedená do výnosů příspěvkové organizace se vrátí před zpracováním roční účetní závěrky do rezervního fondu. Prostředky převedené do rezervního fondu podle § 54 odst. 7 lze v průběhu roku použít, i když jejich použití rozpočtováno nebylo.*
 >
 > *(4) Účelově určené peněžní dary a peněžní prostředky poskytnuté ze zahraničí se použijí v souladu s jejich určením.*
 
@@ -1086,7 +1245,7 @@ Specifická úprava pro **velvyslanectví ČR** a **vojenské mise v zahraničí
 
 > **§ 60**
 >
-> *Fond kulturních a sociálních potřeb je tvořen základním přídělem na vrub nákladů příspěvkové organizace ve výši 1 % z ročního objemu nákladů zúčtovaných na platy a náhrady platů […]. Je tvořen k zabezpečování kulturních, sociálních a dalších potřeb a je určen zaměstnancům v pracovním poměru k zaměstnavateli, státním zaměstnancům podle zákona o státní službě, příslušníkům ve služebním poměru, soudcům, žákům středních odborných učilišť a učilišť, důchodcům, kteří při prvém odchodu do starobního důchodu nebo invalidního důchodu pro invaliditu třetího stupně pracovali u zaměstnavatele, případně rodinným příslušníkům zaměstnanců a jiným právnickým nebo fyzickým osobám.*
+> *Fond kulturních a sociálních potřeb je tvořen základním přídělem na vrub nákladů příspěvkové organizace ve výši 1 % z ročního objemu nákladů zúčtovaných na platy a náhrady platů, popřípadě na mzdy a náhrady mzdy a odměny za pracovní pohotovost, na odměny a ostatní plnění za práci vykonávanou v rámci odborného výcviku na produktivních činnostech žákům učilišť a na stipendia zaměstnancům na studijních pobytech. Fond kulturních a sociálních potřeb je naplňován zálohově z roční plánované výše v souladu s jeho schváleným rozpočtem. Vyúčtování skutečného základního přídělu se provede v rámci účetní závěrky. Je tvořen k zabezpečování kulturních, sociálních a dalších potřeb a je určen zaměstnancům v pracovním poměru k zaměstnavateli, státním zaměstnancům podle zákona o státní službě, příslušníkům ve služebním poměru, soudcům, žákům středních odborných učilišť a učilišť, důchodcům, kteří při prvém odchodu do starobního důchodu nebo invalidního důchodu pro invaliditu třetího stupně pracovali u zaměstnavatele, případně rodinným příslušníkům zaměstnanců a jiným právnickým nebo fyzickým osobám.*
 
 **Výklad:**
 
@@ -1221,9 +1380,41 @@ Specifická pravidla pro **vzdělávací a ubytovací zařízení** OSS/SPO (kur
 
 > **§ 69**
 >
-> *(1) Zabezpečuje-li organizační složka státu nebo příspěvková organizace stravování, zabezpečuje je ve vlastním stravovacím zařízení nebo prostřednictvím jiné organizační složky státu, právnické osoby nebo fyzické osoby pro (a) zaměstnance v pracovním poměru, (b) státní zaměstnance, (c) příslušníky bezpečnostních sborů ve služebním poměru, (d) vojáky z povolání, (e) soudce, (f) žáky a studenty po dobu jejich činnosti v organizační složce státu nebo příspěvkové organizaci […].*
+> *(1) Zabezpečuje-li organizační složka státu nebo příspěvková organizace stravování, zabezpečuje je ve vlastním stravovacím zařízení nebo prostřednictvím jiné organizační složky státu, právnické osoby nebo fyzické osoby pro*
 >
-> *(2)–(8) [stravování bývalých zaměstnanců a DPP/DPČ, stravování externích osob, peněžitý příspěvek na stravování („stravenkový paušál"), výše příspěvku, oddělené pracoviště, vyhláška MF, vyloučení souběhu se stravným při pracovní cestě.]*
+> *- a) zaměstnance v pracovním poměru,*
+>
+> *- b) státní zaměstnance podle zákona o státní službě,*
+>
+> *- c) příslušníky bezpečnostních sborů ve služebním poměru,*
+>
+> *- d) vojáky z povolání,*
+>
+> *- e) soudce,*
+>
+> *- f) žáky a studenty po dobu jejich činnosti v organizační složce státu nebo příspěvkové organizaci, pokud není jejich stravování zajištěno podle zvláštního právního předpisu.*
+>
+> *(2) Organizační složka státu nebo příspěvková organizace může v souladu s kolektivní smlouvou, kolektivní dohodou nebo vnitřním předpisem zabezpečovat stravování ve vlastním stravovacím zařízení též*
+>
+> *- a) bývalým zaměstnancům, kteří u ní pracovali do odchodu do starobního důchodu, nebo invalidního důchodu pro invaliditu třetího stupně,*
+>
+> *- b) zaměstnancům činným u organizační složky státu nebo příspěvkové organizace na základě dohod o pracích konaných mimo pracovní poměr.*
+>
+> *(3) Organizační složka státu nebo příspěvková organizace může poskytnout stravování ve vlastním stravovacím zařízení též*
+>
+> *- a) fyzickým osobám, k jejichž stravování se zavázala smlouvou o stravování s jinou organizační složkou státu, právnickou osobou nebo fyzickou osobou,*
+>
+> *- b) zaměstnancům jiných zaměstnavatelů, kteří jsou u ní na pracovní cestě nebo pro ni jinak činní.*
+>
+> *(4) Odstavec 1 se nepoužije, poskytuje-li organizační složka státu ze svého rozpočtu nebo příspěvková organizace na vrub nákladů své hlavní činnosti zaměstnanci v pracovním poměru, státnímu zaměstnanci podle zákona o státní službě, příslušníkovi bezpečnostního sboru ve služebním poměru, vojákovi z povolání nebo soudci v pracovním vztahu peněžitý příspěvek na stravování. Jeden peněžitý příspěvek na stravování za den náleží zaměstnanci v pracovním poměru, státnímu zaměstnanci podle zákona o státní službě, příslušníkovi bezpečnostního sboru ve služebním poměru, vojákovi z povolání nebo soudci, odpracoval-li alespoň 3 hodiny v tomto dni v místě výkonu práce sjednaném v pracovní smlouvě, v místě služebního působiště nebo v místě výkonu funkce soudce. Peněžitý příspěvek na stravování za den se poskytuje do výše 70 % horní hranice stravného, které lze poskytnout zaměstnancům odměňovaným platem při pracovní cestě trvající 5 až 12 hodin. Nejvýše 45 % peněžitého příspěvku na stravování může být hrazeno příspěvkem z fondu kulturních a sociálních potřeb. Při výplatě peněžitého příspěvku na stravování nebo jeho části z rozpočtu organizační složky státu se postupuje podle § 46 obdobně.*
+>
+> *(5) Umožňuje-li to kolektivní smlouva, kolektivní dohoda nebo vnitřní předpis, může organizační složka státu nebo příspěvková organizace poskytnout za podmínek podle odstavce 4 v daném dni další peněžitý příspěvek na stravování, odpracoval-li zaměstnanec v pracovním poměru, státní zaměstnanec podle zákona o státní službě, příslušník bezpečnostního sboru ve služebním poměru, voják z povolání nebo soudce déle než 11 hodin v daném dni. Do odpracované doby se započítává přestávka v práci, kterou je organizační složka státu nebo příspěvková organizace povinna poskytnout podle jiného právního předpisu osobám podle věty první.*
+>
+> *(6) Organizační složka státu nebo příspěvková organizace může zabezpečovat stravování odlišně u místně odděleného pracoviště.*
+>
+> *(7) Náklady na stravování a jejich úhradu stanoví ministerstvo vyhláškou.*
+>
+> *(8) Za dobu, za níž vzniklo zaměstnanci v příslušném dni právo na poskytnutí stravného podle právních předpisů upravujících cestovní náhrady, nelze postupovat podle odstavců 1 až 6 ani podle vyhlášky vydané na základě zmocnění obsaženého v odstavci 7.*
 
 **Výklad:**
 
@@ -1245,9 +1436,9 @@ Specifická pravidla pro **vzdělávací a ubytovací zařízení** OSS/SPO (kur
 >
 > *(2) Příspěvková organizace může pojistit pouze majetek České republiky, se kterým hospodaří.*
 >
-> *(3) Peněžní prostředky z pojistného plnění za každou pojistnou událost může organizační složka státu, která v době jejich přijetí škody způsobené touto pojistnou událostí dosud neuhradila, použít [§ 25 odst. 1 písm. b)] pouze na jejich úhradu. Jestli v době jejich přijetí tyto škody uhradila dosud jen zčásti, použije je na úhradu zbylé části škody a jejich zbytek na výdaje, které kvůli úhradě části škody nemohla uskutečnit. Jestli v době jejich přijetí tyto škody uhradila již zcela, použije je na výdaje, které kvůli úhradě škody nemohla uskutečnit, v plné výši. […]*
+> *(3) Peněžní prostředky z pojistného plnění za každou pojistnou událost30a) může organizační složka státu, která v době jejich přijetí škody způsobené touto pojistnou událostí dosud neuhradila, použít [§ 25 odst. 1 písm. b)] pouze na jejich úhradu. Jestli v době jejich přijetí tyto škody uhradila dosud jen zčásti, použije je na úhradu zbylé části škody a jejich zbytek na výdaje, které kvůli úhradě části škody nemohla uskutečnit. Jestli v době jejich přijetí tyto škody uhradila již zcela, použije je na výdaje, které kvůli úhradě škody nemohla uskutečnit, v plné výši. To platí i pro výdaje, ke kterým získala organizační složka státu oprávnění použitím částek z nároků z nespotřebovaných výdajů.*
 >
-> *(4) Jiné pojištění než podle odstavců 1 a 2 může organizační složka státu a příspěvková organizace uzavřít, jen stanoví-li tak zvláštní zákon nebo prováděcí právní předpis ke zvláštnímu zákonu.*
+> *(4) Jiné pojištění než podle odstavců 1 a 2 může organizační složka státu a příspěvková organizace uzavřít, jen stanoví-li tak zvláštní zákon31) nebo prováděcí právní předpis ke zvláštnímu zákonu.*
 
 **Výklad:**
 
@@ -1360,13 +1551,13 @@ Přechodná pravidla pro **přechod ze starých rozpočtových pravidel republik
 >
 > *- 1. Zákon č. 576/1990 Sb., o pravidlech hospodaření s rozpočtovými prostředky České republiky a obcí v České republice (rozpočtová pravidla republiky),*
 >
-> *- 2. zákon č. 166/1992 Sb., kterým se mění a doplňuje zákon České národní rady č. 576/1990 Sb., …, ve znění zákona ČNR č. 579/1991 Sb.,*
+> *- 2. zákon č. 166/1992 Sb., kterým se mění a doplňuje zákon České národní rady č. 576/1990 Sb., o pravidlech hospodaření s rozpočtovými prostředky České republiky a obcí v České republice (rozpočtová pravidla republiky), ve znění zákona České národní rady č. 579/1991 Sb.,*
 >
-> *- 3. zákon č. 57/1995 Sb., kterým se mění zákon ČNR č. 576/1990 Sb., …, ve znění pozdějších předpisů,*
+> *- 3. zákon č. 57/1995 Sb., kterým se mění zákon České národní rady č. 576/1990 Sb., o pravidlech hospodaření s rozpočtovými prostředky České republiky a obcí v České republice (rozpočtová pravidla republiky), ve znění pozdějších předpisů,*
 >
-> *- 4. zákon č. 154/1995 Sb., kterým se mění a doplňuje zákon ČNR č. 576/1990 Sb., …, ve znění pozdějších předpisů,*
+> *- 4. zákon č. 154/1995 Sb., kterým se mění a doplňuje zákon České národní rady č. 576/1990 Sb., o pravidlech hospodaření s rozpočtovými prostředky České republiky a obcí v České republice (rozpočtová pravidla republiky), ve znění pozdějších předpisů,*
 >
-> *- 5. zákon č. 160/1997 Sb., kterým se mění zákon ČNR č. 576/1990 Sb., …, ve znění pozdějších předpisů.*
+> *- 5. zákon č. 160/1997 Sb., kterým se mění zákon České národní rady č. 576/1990 Sb., o pravidlech hospodaření s rozpočtovými prostředky České republiky a obcí v České republice (rozpočtová pravidla republiky), ve znění pozdějších předpisů.*
 
 **Výklad:**
 
