@@ -37,6 +37,11 @@ Druhá polovina Části první obsahuje **provozní a sankční jádro rozpočto
 
 **Aktuální výčet SF** (k 1. 1. 2026): Státní fond životního prostředí ČR (388/1991 Sb.), Státní fond kultury ČR (239/1992 Sb.), Státní fond kinematografie (496/2012 Sb.), Státní fond podpory investic (dříve SF rozvoje bydlení; 211/2000 Sb.), Státní fond dopravní infrastruktury (104/2000 Sb.), Státní zemědělský intervenční fond (256/2000 Sb.).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Af 49/2015 - 34](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/442259) — 26. 3. 2019
+  > „Soud přitom v tomto směru žalobci přisvědčuje v jím akcentovaném východisku, že peněžní prostředky SFDI nelze v žádném ohledu považovat za peněžní prostředky státního rozpočtu. Rozpočet žalobce coby zákonem č. 104/2000 Sb. zřízeného fondu (v souladu s § 28 zákona č. 218/2000 Sb., resp. odpovídajícím ustanovením předchozí právní úpravy) je zvláštním veřejným rozpočtem, který nelze ztotožňovat či zaměňovat se státním rozpočtem"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Státní fond S, zřízený zákonem a spadající do působnosti ministerstva M, obdrží ze státního rozpočtu (z kapitoly M) dotaci na krytí svých správních výdajů. Ředitel fondu z těchto prostředků uhradí mimořádné odměny členům dozorčí rady nad rámec úhrad stanovených zřizovacím zákonem a dále reprezentační výdaje v rozsahu, který by si organizační složka státu dovolit nemohla. Fond argumentuje, že jako samostatná právnická osoba hospodaří podle vlastního rozpočtu. Důkazy: zřizovací zákon fondu, rozhodnutí o poskytnutí dotace na správní výdaje, rozpočet a účetnictví fondu, doklady o vyplacených odměnách, zápisy orgánů fondu.
@@ -776,8 +781,10 @@ Výjimky z kontroly rezervace: hotovostní výběry, platby kartou, ceny ČNB sa
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 1774/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/715F708C7763A9E6C1257DE8003AECED?openDocument) — 30. 12. 2014, kat. A
+- *NS* [21 Cdo 1774/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/715F708C7763A9E6C1257DE8003AECED?openDocument) — kat. A, 30. 12. 2014
   > „Vykonatelné usnesení soudu, kterým bylo státu (České republice) uloženo vrátit poplatníku soudní poplatek nebo přeplatek na soudním poplatku, je způsobilým titulem pro výkon rozhodnutí nebo exekuci. V řízení o výkon rozhodnutí nebo v exekučním řízení vedeném podle takového titulu vystupuje za stát (Českou republiku) Ministerstvo financí"
+- *NSS* [4 Ads 5/2005 - 45](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/609912) — 25. 1. 2006
+  > „Dávky důchodového pojištění jsou financovány především z pojistného … přičemž příjmy a výdaje důchodového pojištění jsou součástí státního rozpočtu České republiky, na tom nic nemění existence zvláštního účtu důchodového pojištění ve státním rozpočtu České republiky jako součásti státních finančních aktiv, srov. § 36 odst. 3 zákona č. 218/2000 Sb., o rozpočtových pravidlech"
 
 #### F. Kazuistika
 
@@ -987,6 +994,11 @@ ZoFK rozlišuje:
 
 **Trojí kritérium** „3E" (odst. 3) — **hospodárnost, efektivnost, účelnost** — je transponováno z přístupu Evropského účetního dvora a IPSAS; není to jen formální dodržování postupů, ale i materiální kvalita rozhodování. Správce kapitoly je povinen průběžně tyto charakteristiky **sledovat a vyhodnocovat** — typicky v rámci procesu hodnocení programů a projektů.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 A 156/2019 - 43](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/420273) — 11. 6. 2020
+  > „Jedná se tedy o výdaje státního rozpočtu podle § 7 odst. 1 písm. c) zákona o rozpočtových pravidlech, které jsou předmětem finanční kontroly ze strany správce kapitoly, který soustavně sleduje a vyhodnocuje hospodárnost, efektivnost a účelnost vynakládání výdajů ve své kapitole (§ 39 odst. 3 zákona o rozpočtových pravidlech). … obce s rozšířenou působností (a nejen ty) mají vůči státu subjektivní právo na plnou úhradu těch výdajů, které důvodně vynaložily při výkonu sociálně-právní ochrany dětí v případě, že při vynaložení těchto výdajů bylo postupováno hospodárně, efektivně a účelně"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Ministerstvo jako správce kapitoly poskytuje dotace podnikatelům; veřejnosprávní kontrolu u příjemců provádí finanční úřad. Souběžně interní audit upozorní, že státní příspěvková organizace zřízená týmž ministerstvem opakovaně nakupuje IT služby za ceny výrazně nad trhem, ač formálně dodržuje zadávací postupy. Ministr se ptá, zda a jak musí zasáhnout a kdo nese odpovědnost. Důkazy: smlouvy a faktury SPO, cenové srovnání (benchmark), zprávy interního auditu, dokumentace řídicí kontroly, protokoly z veřejnosprávních kontrol.
@@ -1144,8 +1156,10 @@ Zahraniční prostředky poskytované prostřednictvím státního rozpočtu pod
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 ICdo 101/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB63DF665163ABEDC12588A80017E01F?openDocument) — 14. 6. 2022, kat. A
-  > „Pohledávka z titulu odvodu za porušení rozpočtové kázně vzniká (a stává se splatnou) již dnem porušení rozpočtové kázně, nikoli až vydáním (nebo právní mocí) platebního výměru, jímž příslušný finanční úřad (správce daně) uloží příjemci dotace provést odvod za porušení rozpočtové kázně. Je-li podle rozhodnutí o poskytnutí dotace porušením rozpočtové kázně skutečnost, že ve vymezené době byl prohlášen konkurs na majetek příjemce dotace, pak pohledávka z titulu odvodu za porušení rozpočtové kázně, která vznikla prohlášením konkursu na majetek příjemce dotace, je i tam, kde insolvenční soud spojil rozhodnutí o prohlášení konkursu s rozhodnutím o úpadku dlužníka (§ 148 odst. 1 insolvenčního zákona), pohledávkou vzniklou ve smyslu § 168 odst. 2 písm. e/ insolvenčního zákona „po rozhodnutí o úpadku“ dlužníka. U pohledávky, která je obsažena v taxativním výčtu pohledávek za majetkovou…"
+- *NS* [29 ICdo 101/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB63DF665163ABEDC12588A80017E01F?openDocument) — kat. A, 14. 6. 2022
+  > „Pohledávka z titulu odvodu za porušení rozpočtové kázně vzniká (a stává se splatnou) již dnem porušení rozpočtové kázně, nikoli až vydáním (nebo právní mocí) platebního výměru, jímž příslušný finanční úřad (správce daně) uloží příjemci dotace provést odvod za porušení rozpočtové kázně. …"
+- *NSS* [16 Af 6/2020 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/712531) — 12. 6. 2023
+  > „Nutno poté poukázat na usnesení rozšířeného senátu Nejvyššího správního soudu ze dne 30. 10. 2018, č. j. 1 Afs 291/2017-33, ve kterém bylo vysloveno, že „[k]aždé porušení dotačních podmínek, které nejsou v rozhodnutí o poskytnutí dotace vymezeny jako méně závažné, zakládá porušení rozpočtové kázně [§ 3 písm. e) ve spojení s § 44 odst. 1 písm. b) zákona č. 218/2000 Sb., o rozpočtových pravidlech.“"
 
 #### F. Kazuistika
 
@@ -1257,8 +1271,12 @@ Zahraniční prostředky poskytované prostřednictvím státního rozpočtu pod
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 ICdo 101/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB63DF665163ABEDC12588A80017E01F?openDocument) — 14. 6. 2022, kat. A
-  > „Pohledávka z titulu odvodu za porušení rozpočtové kázně vzniká (a stává se splatnou) již dnem porušení rozpočtové kázně, nikoli až vydáním (nebo právní mocí) platebního výměru, jímž příslušný finanční úřad (správce daně) uloží příjemci dotace provést odvod za porušení rozpočtové kázně. Je-li podle rozhodnutí o poskytnutí dotace porušením rozpočtové kázně skutečnost, že ve vymezené době byl prohlášen konkurs na majetek příjemce dotace, pak pohledávka z titulu odvodu za porušení rozpočtové kázně, která vznikla prohlášením konkursu na majetek příjemce dotace, je i tam, kde insolvenční soud spojil rozhodnutí o prohlášení konkursu s rozhodnutím o úpadku dlužníka (§ 148 odst. 1 insolvenčního zákona), pohledávkou vzniklou ve smyslu § 168 odst. 2 písm. e/ insolvenčního zákona „po rozhodnutí o úpadku“ dlužníka. U pohledávky, která je obsažena v taxativním výčtu pohledávek za majetkovou…"
+- *NS* [29 ICdo 101/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB63DF665163ABEDC12588A80017E01F?openDocument) — kat. A, 14. 6. 2022
+  > „Pohledávka z titulu odvodu za porušení rozpočtové kázně vzniká (a stává se splatnou) již dnem porušení rozpočtové kázně, nikoli až vydáním (nebo právní mocí) platebního výměru, jímž příslušný finanční úřad (správce daně) uloží příjemci dotace provést odvod za porušení rozpočtové kázně. …"
+- *NSS* [4 Afs 362/2021 - 32](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/715533) — 26. 10. 2023
+  > „Judikatura Nejvyššího správního soudu tedy zastává názor, že na státní fond je možné pro účely vyměření odvodu do státního rozpočtu za porušení rozpočtové kázně hledět jako by byl organizační složkou státu pouze v případě, že se toto porušení týká výdajů financovaných ze státního rozpočtu. Jen tehdy na něj lze aplikovat § 44a odst. 1 rozpočtových pravidel"
+- *NSS* [3 Af 33/2018 - 60](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/676383) — 3. 12. 2021
+  > „při stanovení výše odvodu za porušení rozpočtové kázně je třeba vycházet ze zásady přiměřenosti, tedy rozumného vztahu mezi závažností porušení rozpočtové kázně a výší za ně předepsaného odvodu. Správce daně musí zvážit, zda je důvod k odvodu v plné výši čerpaných či poskytnutých prostředků státního rozpočtu, či pouze k odvodu odpovídajícímu závažnosti a významu porušení povinnosti (§ 44a odst. 4 zákona č. 218/2000 Sb., o rozpočtových pravidlech) a své rozhodnutí náležitě odůvodnit"
 
 #### 1. Adresát odvodu — komu se platí
 
@@ -1386,6 +1404,11 @@ Podle toho, kdo porušil a co bylo porušeno (odst. 1–3):
 5. **Účet cizích prostředků** (odst. 10) — pro prostředky, které **patří jiným osobám** (omylem došlé, platy do výplaty, deponované peníze pacientů). Není to majetek státu, jen je v dočasné držbě OSS.
 6. **Účty mimo ČNB** (odst. 7) — výjimečně, **se souhlasem MF**, např. pro zastupitelské úřady v zahraničí. Měsíční reporting MF.
 7. **Lhůta pro odvod do SR** (odst. 11): 30 (resp. 5) pracovních dnů — disciplinuje OSS k rychlému převodu příjmů.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 36/2004 - 46](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/609590) — 11. 11. 2004
+  > „Jakkoliv tedy v důsledku uložení předmětné pokuty nezaniklo vlastnické právo státu k příslušné finanční hodnotě, byl o tuto hodnotu zkrácen rozpočet dotčeného státního orgánu a v konečném důsledku tato hodnota proto nemohla být využita v souladu s předem stanoveným účelem (viz § 45 zákona č. 218/2000 Sb.). Tím zjevně došlo k zásahu do dispozičního práva státu k této hodnotě a v tom spatřuje Nejvyšší správní soud zásah do veřejných subjektivních práv stěžovatele ve smyslu ustanovení § 2 s. ř. s"
 
 #### F. Kazuistika
 
@@ -2402,6 +2425,11 @@ Rezervní fond SPO slouží k úhradě ztrát, sankcí, časových nesouladů a 
 
 **Klíčový pojem „odpisy = zdroj fondu"** — odpisy nejsou pouze nákladem, ale skutečným zdrojem cash flow SPO. Proto se z odpisů tvoří FRM, který slouží jako „kapitálový rezervní polštář" pro náhradu opotřebovaného majetku.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [55 Af 20/2018 - 36](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/415181) — 24. 8. 2020
+  > „Podle soudu lze souhlasit se žalovaným, že účely taxativně vymezené § 58 odst. 2 rozpočtových pravidel k využití prostředků fondu reprodukce majetku neumožňují jejich použití [ve smyslu § 3 písm. e) rozpočtových pravidel] k účetním operacím. Nicméně podle § 3 písm. e) rozpočtových pravidel neoprávněné použití finančních prostředků nastane až okamžikem vydání peněžních prostředků ve spojení s porušením příslušné povinnosti nebo s porušením příslušného účelu či podmínek …"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** SPO — divadlo — čelí provoznímu výpadku a ředitel uhradí z fondu reprodukce majetku (tvořeného odpisy) faktury za energie a část mezd. Současně divadlo prodá starý nákladní automobil (movitý dlouhodobý majetek) a výtěžek zaúčtuje do provozních výnosů místo do FRM. Důkazy: odpisový plán, analytická evidence FRM, kupní smlouva, účetní doklady o úhradách z fondu.
@@ -3149,6 +3177,11 @@ Státní záruku poskytuje jen Parlament zvláštním zákonem; usnesení vlády
 - **Omezení**: jen **hlavní činnost** — za dluhy z **jiné činnosti** stát neručí.
 - Důsledek: snižuje úvěrové riziko SPO (a tím i úrokové sazby úvěrů, které mohou přijímat dle § 62 odst. 3); zároveň ale **ohrožuje SR** v případě selhání SPO — proto je tak striktní režim zhoršeného HV podle § 55.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 3069/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-3069-11_1) — usnesení, 15. 12. 2011
+  > „V uvedeném rozhodnutí Nejvyšší soud vysvětlil důvody pro odmítnutí retroaktivního působení pravidel o ručení státu za závazky příspěvkových organizací. I když zákon č. 218/2000 Sb. výslovně ručení státu za závazky příspěvkových organizací, vzniklé před nabytím jeho účinnosti (tj. před 1. lednem 2001), neřeší a výslovné přechodné ustanovení k této otázce neobsahuje, dovodil, že na tyto závazky se ručení státu podle jeho ust. § 74 nevztahuje. … Uvedeným závěrům nelze z hlediska ústavnosti nic vytknout"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Dodavatel zdravotnické techniky má splatnou pohledávku 8 mil. Kč za státní příspěvkovou organizací (fakultní nemocnicí) z dodávek pro léčebný provoz; další 2 mil. Kč mu nemocnice dluží z komerčního pronájmu reklamních ploch (jiná činnost). Nemocnice přes písemné výzvy neplatí. Dodavatel zvažuje žalobu proti České republice jako zákonnému ručiteli. Důkazy: smlouvy a faktury s rozlišením hlavní a jiné činnosti, zřizovací listina (vymezení činností), písemné výzvy dlužníkovi, doklady o (ne)plnění.
@@ -3202,6 +3235,11 @@ Stát ručí ze zákona za dluhy SPO z hlavní činnosti. Věřitel musí nejprv
 **Vyhláška MF č. 367/2015 Sb., o finančním vypořádání**, stanoví termíny (typicky **do 15. 2. následujícího roku** pro vypořádání běžných dotací, do **30. 6.** pro investiční dotace) a strukturu výkazů.
 
 **Nedodržení termínu** = porušení rozpočtové kázně podle § 44 odst. 1 písm. h) nebo k) → odvod a penále podle § 44a.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Afs 138/2015 - 28](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/636365) — 27. 10. 2015
+  > „Finanční vypořádání dotace totiž představuje dokument, jehož prostřednictvím se poskytovatel dotace souhrnně dozvídá informace o stavu čerpání dotace, o výši skutečně použité částky peněžních prostředků a, eventuálně, zda má být část dotace vrácena do státního rozpočtu jako nepoužitá (tzv. vratka). … Opomenutí povinnosti příjemce dotace dotaci s poskytovatelem finančně vypořádat tak zhoršuje postavení poskytovatele dotace co do přehledu o celkovém stavu dotace a co do možností kontroly"
 
 #### F. Kazuistika
 
