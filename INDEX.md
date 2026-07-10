@@ -18,3 +18,7 @@
 
 ## Vazby
 [RP-ÚR 250/2000](/home/vojtech/Komentar-RPUR-250-2000/), 23/2017 (rozpočtová odpovědnost), 320/2001 (finanční kontrola), 420/2004 (audit), [DR 280/2009](/home/vojtech/Komentar-DR-280-2009/) — porušení rozpočtové kázně jako daňový režim.
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
