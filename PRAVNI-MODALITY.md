@@ -142,3 +142,148 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | ministerstvo stanoví; rozhodne; určí; vydá | [§ 8](https://e-sbirka.gov.cz/sb/2000/218#par_8); [§ 14](https://e-sbirka.gov.cz/sb/2000/218#par_14); [§ 14e](https://e-sbirka.gov.cz/sb/2000/218#par_14e) |
 | Oprávnění a povinnost | je povinen; povinnost; jsou povinni | [§ 3](https://e-sbirka.gov.cz/sb/2000/218#par_3); [§ 8](https://e-sbirka.gov.cz/sb/2000/218#par_8); [§ 14](https://e-sbirka.gov.cz/sb/2000/218#par_14); [§ 14a–§ 14d](https://e-sbirka.gov.cz/sb/2000/218#par_14a) |
 | Domněnky, fikce a účinkové konstrukce | má se za to; považuje se za | [§ 14f](https://e-sbirka.gov.cz/sb/2000/218#par_14f); [§ 23](https://e-sbirka.gov.cz/sb/2000/218#par_23) |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 218/2000 Sb., o rozpočtových pravidlech (RPS) — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Právní modality vyjadřují způsob, jímž norma spojuje s jednáním svůj deontický náboj. Objektivní (deontické) modality členíme na **příkaz** (norma jednání ukládá), **zákaz** (norma jednání zapovídá) a **dovolení** (norma jednání umožňuje, aniž je vyžaduje). Zvláštní kategorii objektivních modalit tvoří **zmocnění** — kompetenční normy, jež nezakládají povinnost adresáta konat, nýbrž svěřují určitému orgánu pravomoc (a působnost) vydávat akty s právními účinky. Rozpočtové právo je pro tuto kategorii charakteristické: podstatná část ustanovení RPS neupravuje chování soukromých osob, ale rozděluje kompetence mezi vládu, ministerstvo financí, Generální finanční ředitelství, finanční úřady a poskytovatele dotací.
+
+Vedle objektivních modalit stojí modality **subjektivní**, popsatelné dvojicí **oprávnění—povinnost**. Tyto jsou zásadně korelativní: subjektivnímu právu jedné strany zpravidla odpovídá povinnost strany druhé (právu příjemce podat námitky odpovídá povinnost poskytovatele je posoudit; povinnosti porušitele provést odvod odpovídá oprávnění státu jej vymáhat). Korelativita však není v RPS vždy úplná — řada oprávnění má povahu procesních práv (iniciovat řízení o prominutí, bránit se opatření), jimž na druhé straně stojí kompetence orgánu, nikoli klasická povinnost.
+
+Normativní výrazy jsou jazykové signály modality. Příkaz nese výrazy „musí“, „je povinen/povinna“, „se použije“, „odvede“; zákaz „nesmí“, „nelze“, „neuloží“, „nemohou být“, „není oprávněna“; dovolení „je oprávněn/oprávněna“, „může“, „nemusí“; zmocnění „může“ ve významu kompetenčním, „se zřizuje zákonem“. Týž výraz („může“) proto může nést dovolení i zmocnění a rozlišuje se podle adresáta a funkce: je-li adresátem orgán veřejné moci a jde-li o výkon veřejné pravomoci, jde o zmocnění.
+
+**Domněnky a fikce** jsou svébytné normativní konstrukce ovlivňující dokazování. Vyvratitelná domněnka (praesumptio iuris) přesouvá důkazní břemeno — platí, dokud není prokázán opak; nevyvratitelná domněnka a **právní fikce** (fictio iuris) opak nepřipouštějí: fikce dokonce prohlašuje za existující něco, co reálně nenastalo (nebo klade skutečnost do jiného okamžiku), a slouží k překlenutí logických či časových paradoxů normy. V RPS se s nimi setkáváme u presumpce správnosti rozpočtového systému, u určení okamžiku účinnosti rozpočtového opatření a u fixace „prvního dne“ porušení rozpočtové kázně.
+
+### Příkaz
+
+Příkazové normy tvoří páteř kogentní rozpočtové kázně: RPS jimi bezvýjimečně určuje, jak má být naloženo s veřejnými prostředky, a nedává adresátovi prostor pro uvážení. Typicky jde o normy nakládání s prostředky (přebytek se použije na snížení státního dluhu; výtěžek z prodeje nemovitého majetku ČR se odvede do státního rozpočtu), o podřízení financování unijnímu režimu veřejné podpory a o povinné označení právní formy subjektu.
+
+Příkaz se zde projevuje jak modálním slovesem „musí“, tak konstrukcemi s výrazem účelu („se použije“, „převedou“) a povinnostními formulacemi („je povinna odvést“). Rozdíl oproti čistě subjektivní povinnosti spočívá v tom, že příkaz je formulován objektivně jako pravidlo hospodaření, jehož porušení je současně zpravidla porušením rozpočtové kázně se sankčními důsledky Hlavy XII.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 3b | účty zruší a peněžní prostředky převedou | „Pomine-li důvod, pro který byly účty podle § 53 odst. 7 zřízeny, účty zruší a peněžní prostředky převedou na účet vedený u České národní banky podřízený státní pokladně.“ | Vrácení likvidity do centralizovaného řízení státní pokladny, jakmile odpadne důvod účtu u komerční banky. |
+| § 11 | musí být v souladu | „Financování programů (§ 12 a 13) a poskytování dotací a návratných finančních výpomocí … musí být v souladu se zákonem o veřejné podpoře.“ | Kogentně podřizuje veškeré financování a dotace pravidlům veřejné podpory, a tím unijnímu právu. |
+| § 28 odst. 5 | musí obsahovat | „Název státního fondu musí obsahovat označení ‚státní fond‘.“ | Povinné označení v názvu zajišťuje terminologickou transparentnost postavení subjektu. |
+| § 30 odst. 6 | se použije | „Přebytek státního rozpočtu se použije na snížení státního dluhu.“ | Kogentně určuje jediné dovolené naložení s přebytkem hospodaření SR bez diskrece. |
+| § 53 odst. 6 | je povinna … odvést | „Příspěvková organizace je povinna do 15 pracovních dnů po připsání částky na její účet odvést do státního rozpočtu příjmy z prodeje nemovitého majetku České republiky“ | Lhůtní povinnost odvést výtěžek z prodeje státního nemovitého majetku do SR. |
+
+Kde příkazová norma o účelovém určení prostředků naráží na porušení dotačních podmínek, aktivuje se sankční mechanismus:
+
+- *NSS* [16 Af 6/2020 - 41](judikatura/NSS-16-Af-6-2020-41.md) — rozsudek z 12. 6. 2023, § 3 a § 44
+  > „Nutno poté poukázat na usnesení rozšířeného senátu Nejvyššího správního soudu ze dne 30. 10. 2018, č. j. 1 Afs 291/2017-33, ve kterém bylo vysloveno, že „[k]aždé porušení dotačních podmínek, které nejsou v rozhodnutí o poskytnutí dotace vymezeny jako méně závažné, zakládá porušení rozpočtové kázně [§ 3 písm. e) ve spojení s § 44 odst. 1 písm. b) zákona č. 218/2000 Sb., o rozpočtových pravidlech.“"
+
+### Zákaz
+
+Zákazové normy chrání rozpočtovou disciplínu, jednotu státní pokladny a účelovost prostředků tím, že vylučují určité jednání či užití institutu. RPS je používá dvojím způsobem: jako pravidla chování adresáta (OSS „není oprávněna“ přijímat úvěry; příspěvková organizace „nesmí překračovat“ rozpočet; účelové prostředky „nemohou být předmětem“ dalšího opatření měnícího účel) a jako limity výkonu veřejné pravomoci (odvod „se neuloží“ pod bagatelní hranicí; zadržení výplaty „nelze“ užít u vybrané kategorie porušení).
+
+Charakteristické je, že zákaz bývá relativizován výhradou „pokud tento zákon nestanoví jinak“, čímž zákonodárce ponechává prostor pro taxativní výjimky, aniž oslabuje jádro zákazu.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 14e odst. 1 | nelze | „Nevyplatit dotaci nebo její část nelze při nedodržení povinnosti podle § 14 odst. 4 písm. i).“ | Vylučuje zadržení výplaty u vybrané kategorie tzv. ostatních povinností. |
+| § 21 odst. 3 | nemohou být předmětem | „Účelově přesunuté prostředky nemohou být předmětem dalšího rozpočtového opatření, kterým by se měnil účel jejich použití.“ | Chrání účelovost prostředků zákazem její dodatečné změny dalším opatřením. |
+| § 44a odst. 6 | se neuloží | „Odvod za porušení rozpočtové kázně se neuloží, jestliže jeho výše v souhrnu … nepřesahuje 1 000 Kč.“ | Bagatelní klauzule brání nehospodárnému vymáhání drobných částek. |
+| § 49 odst. 1 | není … oprávněna | „Organizační složka státu není, pokud tento zákon nestanoví jinak, oprávněna přijímat ani poskytovat úvěry, přijímat zápůjčky, vystavovat směnky ani je přijímat.“ | Kogentní zákaz zadlužovacích a směnečných operací OSS. |
+| § 53 odst. 4 | nesmí překračovat | „Úhrady, ke kterým se příspěvková organizace zaváže v běžném roce, nesmí překračovat její rozpočet na tento rok.“ | Prosazuje princip vyrovnaného hospodaření příspěvkové organizace. |
+
+### Dovolení
+
+Dovolení uvolňují jinak kogentní režim hospodaření: umožňují adresátovi jednat pružně, aniž mu to ukládají. V RPS jde zejména o výjimky z vázanosti závaznými ukazateli (přesuny v provizoriu, oprávněné překročení výdajů u účelových příjmů) a o preventivní nástroj poskytovatele (možnost nevyplatit dotaci při důvodné domněnce porušení). Výraz „nemusí vyplatit“ ukazuje, že jde o oprávnění zdržet plnění, nikoli o sankci — zadržení výplaty proto předchází řízení o odvodu a nemá represivní povahu.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 9 odst. 6 | jsou oprávněny k přesunům | „Organizační složky státu jsou v období rozpočtového provizoria oprávněny k přesunům prostředků v rámci jednotlivých závazných ukazatelů.“ | Pružné hospodaření v provizoriu při zachování stropu závazných ukazatelů. |
+| § 14e odst. 1 | nemusí vyplatit | „Poskytovatel nemusí vyplatit dotaci nebo její část, domnívá-li se důvodně, že její příjemce v přímé souvislosti s ní porušil povinnosti …“ | Preventivní zadržení výplaty při důvodné domněnce porušení, nikoli sankce. |
+| § 45 odst. 12 | je oprávněna překročit | „Organizační složka státu je oprávněna překročit závazné ukazatele výdajů státního rozpočtu“ | Výjimka z vázanosti závaznými ukazateli pro taxativně vymezené účelové příjmy. |
+
+Povaha a přezkoumatelnost dovoleného zadržení výplaty i jeho vazba na rozpočtovou provizorní úpravu jsou osvětleny místní judikaturou:
+
+- *NSS* [5 Afs 123/2018 - 45](judikatura/NSS-5-Afs-123-2018-45.md) — rozsudek z 7. 3. 2019, § 14e
+  > „Domníval-li se poskytovatel dotace, že došlo k porušení pravidel pro zadání veřejné zakázky, aniž by současně došlo k porušení rozpočtové kázně (peněžní prostředky nebyly vyplaceny), měl dle § 14e zákona č. 218/2000 Sb."
+
+- *ÚS* [Pl.ÚS 55/10](judikatura/US-Pl-S-55-10.md) — nález z 1. 3. 2011, § 9 (rozpočtové provizorium)
+  > „Mimořádnou okolností není ani situace, kdy s ohledem na určité politické souvislosti by nedošlo k přijetí samotného zákona o státním rozpočtu před prvním dnem rozpočtového roku."
+
+### Zmocnění (kompetenční normy)
+
+Zmocnění nesvěřují povinnost, nýbrž pravomoc: opravňují orgán zahájit řízení, provést rozpočtové opatření, prominout sankci — nebo, ve výhradě zákona, vyhrazují určitý akt výlučně zákonodárci. Rozlišení od dovolení je funkční: adresátem je orgán veřejné moci a jde o výkon veřejné pravomoci. Výraz „může“ zde nese diskreci (fakultativní pravomoc), zatímco „se zřizuje zákonem“ vyjadřuje výhradu zákona jako negativní kompetenční vymezení (podzákonný akt vyloučen).
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 15 odst. 1 | může poskytovatel zahájit | „Řízení o odnětí dotace nebo návratné finanční výpomoci může poskytovatel zahájit, došlo-li po vydání rozhodnutí o poskytnutí …“ | Opravňuje poskytovatele zahájit správní řízení o odnětí při zákonem vymezených důvodech. |
+| § 24 odst. 1 | může | „Vláda nebo na základě jejího pověření ministr financí může“ | Svěřuje vládě, resp. ministru financí, pravomoc provádět taxativně vymezená rozpočtová opatření. |
+| § 28 odst. 1 | se zřizuje zákonem | „Každý státní fond se zřizuje zákonem.“ | Výhrada zákona pro vznik státního fondu; vylučuje zřízení podzákonným aktem. |
+| § 44a odst. 12 | může … prominout | „Generální finanční ředitelství může z důvodů hodných zvláštního zřetele zcela nebo zčásti prominout odvod za porušení rozpočtové kázně nebo penále …“ | Fakultativní pravomoc GFŘ prominout sankci, s výlukou u prostředků krytých rozpočtem EU. |
+
+Kompetenční svébytnost státního fondu, zřizovaného zákonem podle § 28, se projevuje i v tom, že jeho prostředky nelze ztotožnit se státním rozpočtem:
+
+- *NSS* [10 Af 49/2015 - 34](judikatura/NSS-10-Af-49-2015-34.md) — rozsudek z 26. 3. 2019, § 28
+  > „Soud přitom v tomto směru žalobci přisvědčuje v jím akcentovaném východisku, že peněžní prostředky SFDI nelze v žádném ohledu považovat za peněžní prostředky státního rozpočtu."
+
+### Oprávnění a povinnost (subjektivní modality)
+
+Subjektivní modality se v RPS koncentrují do sankčně-procesního jádra Hlavy XII a do dotačního vztahu. Na straně státu (a poskytovatele) vzniká povinnost porušitele — provést odvod za porušení rozpočtové kázně, vrátit již vyplacené prostředky při kvalifikovaném odnětí; na straně adresáta pak procesní oprávnění bránit se (podat námitky) a iniciovat řízení (požádat o prominutí). Tato práva jsou lhůtami ohraničena (15 dnů pro námitky, jeden rok pro žádost o prominutí), což je typický znak subjektivních procesních modalit.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 14e odst. 2 | může podat námitky | „Příjemce může do 15 dnů ode dne, kdy tuto informaci obdržel, podat poskytovateli proti tomuto opatření námitky.“ | Procesní právo příjemce bránit se opatření poskytovatele ve lhůtě 15 dnů. |
+| § 15 odst. 5 | vzniká příjemci povinnost vrátit | „Při odnětí dotace … z důvodů podle odstavce 1 písm. b) až h) vzniká příjemci povinnost vrátit poskytovateli … již odeslanou část dotace …“ | Povinnost vrátit již vyplacené prostředky při kvalifikovaných důvodech odnětí. |
+| § 44a odst. 1 | je povinna provést | „je povinna provést prostřednictvím místně příslušného finančního úřadu odvod za porušení rozpočtové kázně“ | Sankční povinnost porušitele provést odvod — jádro mechanismu Hlavy XII. |
+| § 44a odst. 13 | může … požádat | „O prominutí … odvodu … nebo penále může Generální finanční ředitelství požádat fyzická osoba, právnická osoba nebo organizační složka státu, která se porušení rozpočtové kázně dopustila“ | Procesní právo porušitele iniciovat řízení o prominutí (prekluzivní lhůta). |
+
+Rozsah povinnosti vrátit prostředky, přiměřenost sankční povinnosti odvodu i procesní povahu opatření dokládá místní judikatura:
+
+- *NSS* [4 Afs 81/2024 - 39](judikatura/NSS-4-Afs-81-2024-39.md) — rozsudek z 27. 2. 2025, § 15
+  > „Na základě uvedené důvodové zprávy a znění § 15 odst. 5 rozpočtových pravidel má Nejvyšší správní soud za to, že částečné odnětí dotace je v důvodové zprávě i v uvedeném ustanovení uvedeno pro případ vrácení samostatné části dotace poskytované po částech."
+
+- *NSS* [3 Af 33/2018 - 60](judikatura/NSS-3-Af-33-2018-60.md) — rozsudek z 3. 12. 2021, § 44a
+  > „při stanovení výše odvodu za porušení rozpočtové kázně je třeba vycházet ze zásady přiměřenosti, tedy rozumného vztahu mezi závažností porušení rozpočtové kázně a výší za ně předepsaného odvodu."
+
+- *NSS* [22 Afs 194/2025 - 56](judikatura/NSS-22-Afs-194-2025-56.md) — rozsudek z 8. 12. 2025, § 14e
+  > „K povaze opatření poskytovatele dotace o neuznání uplatněných nákladů podle § 14e odst. 1 zákona č. 218/2000 Sb., o rozpočtových pravidlech, Nejvyšší správní soud ještě ve shodě s městským soudem připomíná, že se nejedná o rozhodnutí ve smyslu § 9 a § 67 správního řádu. Tím je až rozhodnutí o námitkách proti tomuto opatření dle § 14e odst. 3 zákona o rozpočtových pravidlech."
+
+### Domněnky a fikce
+
+RPS užívá domněnek a fikcí k zajištění právní jistoty tam, kde by realita vytvářela mezery či paradoxy. Presumpce správnosti rozpočtového systému (§ 3a) zakládá vyvratitelnou domněnku: údaje systému platí jako „zdroj pravdy“, dokud není prokázán opak, čímž se přesouvá důkazní břemeno na toho, kdo tvrdí nesoulad. Naproti tomu § 23 odst. 2 a § 44 odst. 1 písm. j) pracují s fikcí: první fixuje rozhodný okamžik účinnosti rozpočtového opatření na zápis do systému, druhý řeší časový paradox porušení nastalého ještě před přijetím dotace tím, že den porušení klade až na den přijetí prostředků.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 3a | se považují za správné | „V případě nesouladu údajů … se považují za správné údaje vedené v rozpočtovém systému.“ | Vyvratitelná domněnka správnosti údajů systému jako „zdroje pravdy“. |
+| § 23 odst. 2 | se považuje za provedené | „Rozpočtové opatření se považuje za provedené změnou údajů v rozpočtovém systému podle § 25 odst. 9.“ | Fikce fixuje okamžik účinnosti opatření na zápis do systému. |
+| § 44 odst. 1 písm. j) | prvním dnem porušení … je den | „prvním dnem porušení rozpočtové kázně je den jejich přijetí příjemcem“ | Fikce překlenuje časový paradox porušení předcházejícího přijetí prostředků. |
+
+Časové ukotvení vzniku a splatnosti odvodu — úzce spjaté s fikcí „prvního dne“ porušení — potvrzuje i civilní judikatura Nejvyššího soudu:
+
+- *NS* [29 ICdo 101/2020](judikatura/NS-29-ICdo-101-2020.md) — rozsudek z 14. 6. 2022, § 3, § 44 a § 44a
+  > „Pohledávka z titulu odvodu za porušení rozpočtové kázně vzniká (a stává se splatnou) již dnem porušení rozpočtové kázně, nikoli až vydáním (nebo právní mocí) platebního výměru, jímž příslušný finanční úřad (správce daně) uloží příjemci dotace provést odvod za porušení rozpočtové kázně."
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+Síla RPS spočívá v tom, že jednotlivé instituty nejsou tvořeny jedinou modalitou, nýbrž jejich provázaným svazkem. Nejzřetelněji to ukazuje **dotační cyklus a jeho vynucení**:
+
+- **Zadržení a odnětí dotace** kombinuje dovolení, zákaz, zmocnění a povinnost. Poskytovatel *nemusí vyplatit* dotaci (§ 14e odst. 1 — dovolení), avšak zadržení *nelze* užít u vybraných porušení (§ 14e odst. 1 — zákaz); proti opatření *může* příjemce *podat námitky* (§ 14e odst. 2 — oprávnění). Vyšším stupněm je zmocnění: řízení o odnětí *může poskytovatel zahájit* (§ 15 odst. 1), načež příjemci *vzniká povinnost vrátit* prostředky (§ 15 odst. 5).
+
+- **Sankční mechanismus Hlavy XII** spojuje fikci, povinnost, zákaz, oprávnění a zmocnění. Fikce určuje *první den* porušení (§ 44 odst. 1 písm. j); porušitel *je povinen provést odvod* (§ 44a odst. 1 — povinnost), který se však *neuloží* pod 1 000 Kč (§ 44a odst. 6 — zákaz/bagatel); porušitel *může požádat* o prominutí (§ 44a odst. 13 — oprávnění), o němž GFŘ *může prominout* (§ 44a odst. 12 — zmocnění s diskrecí).
+
+- **Řízení státní pokladny a rozpočtový systém** kombinuje příkaz a domněnku: subjekty *účty zruší a převedou* prostředky (§ 3b — příkaz), přičemž údaje systému *se považují za správné* (§ 3a — domněnka) a rozpočtové opatření *se považuje za provedené* zápisem (§ 23 odst. 2 — fikce).
+
+- **Vázanost hospodaření a její výjimky** staví zákaz proti dovolení: OSS *není oprávněna* přijímat úvěry (§ 49 odst. 1) a účelové prostředky *nemohou být předmětem* opatření měnícího účel (§ 21 odst. 3), zatímco v provizoriu *jsou oprávněny k přesunům* (§ 9 odst. 6) a *je oprávněna překročit* ukazatele u účelových příjmů (§ 45 odst. 12).
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+|---|---|---|
+| Příkaz | musí, musí být v souladu, se použije, převedou, je povinna odvést | § 3b, § 11, § 28 odst. 5, § 30 odst. 6, § 53 odst. 6 |
+| Zákaz | nelze, nesmí překračovat, se neuloží, nemohou být předmětem, není oprávněna | § 14e odst. 1, § 21 odst. 3, § 44a odst. 6, § 49 odst. 1, § 53 odst. 4 |
+| Dovolení | jsou oprávněny, je oprávněna překročit, nemusí vyplatit | § 9 odst. 6, § 14e odst. 1, § 45 odst. 12 |
+| Zmocnění | může (kompetenční), se zřizuje zákonem, může prominout | § 15 odst. 1, § 24 odst. 1, § 28 odst. 1, § 44a odst. 12 |
+| Oprávnění | může podat námitky, může požádat | § 14e odst. 2, § 44a odst. 13 |
+| Povinnost | vzniká povinnost vrátit, je povinna provést | § 15 odst. 5, § 44a odst. 1 |
+| Domněnka / fikce | se považují za správné, se považuje za provedené, prvním dnem … je den | § 3a, § 23 odst. 2, § 44 odst. 1 písm. j) |
